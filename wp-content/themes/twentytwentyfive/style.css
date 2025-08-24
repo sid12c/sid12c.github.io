@@ -64,11 +64,15 @@ h1, h2, h3, h4, h5, h6, blockquote, caption, figcaption, p {
 	.SCMAKESTITLE {
 		display: none;
 	}
-	.wp-block-site-title {
+	/* .wp-block-site-title {
 		display: none;
-	}
+	} */
 }
 
 .mobile-theme .SCMAKESTITLE {
 	display: none;
+}
+
+.contact-form-thankyou {
+	display:none;
 }

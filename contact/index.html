@@ -163,21 +163,21 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16
 		
 		<h1 class="wp-block-post-title">Contact</h1>
 		<div class="entry-content alignfull wp-block-post-content has-global-padding is-layout-constrained wp-block-post-content-is-layout-constrained">
-<form method="POST" action="https://script.google.com/macros/s/AKfycbzm_VyGhjBcL7rO-4GgwkcGQnDSjdnSWNwp3DmhbLF6pB4hWWVCkhegJiGxvvoelZuD/exec" id="my-form">
-  <p>
-    Name: <input name="Name" type="text" placeholder="Name" required>
-  </p>
-  <p>
-    Email: <input name="Email" type="email" placeholder="Email" required>
-  </p>
-  <p>
-    Message: <input name="Message" type="text" placeholder="Message" required>
-  </p>
-  <button type="submit">Send</button>
+<form method="POST" action="https://script.google.com/macros/s/AKfycbzm_VyGhjBcL7rO-4GgwkcGQnDSjdnSWNwp3DmhbLF6pB4hWWVCkhegJiGxvvoelZuD/exec" id="my-form" class="contact-form">
+  <label for="Name">Name:</label><br>
+  <input name="Name" type="text" placeholder="Name" required><br>
+  <label for="Email">Email:</label><br>
+  <input name="Email" type="email" placeholder="Email" required><br>
+  <label for="Name">Message:</label><br>
+  <textarea rows="5" cols="80" name="Message" placeholder="Message" required></textarea><br>
+  
+  <button type="submit" class="wp-block-button__link wp-element-button">Send</button>
+  <div class="contact-form-thankyou" id="thankYouMessage"><p>Your message has been successfully submitted.</p></div>
 </form>
 <script>
 window.addEventListener("load", function() {
   const form = document.getElementById('my-form');
+  const msg = document.getElementById('thankYouMessage');
   form.addEventListener("submit", function(e) {
     e.preventDefault();
     const data = new FormData(form);
@@ -187,13 +187,14 @@ window.addEventListener("load", function() {
       body: data,
     })
     .then(() => {
-      alert("Your message has been successfully submitted.");
       form.reset();
+      msg.style.display="block";
     })
   });
 });
 
 </script>
+
 
 
 
