@@ -64,6 +64,9 @@ h1, h2, h3, h4, h5, h6, blockquote, caption, figcaption, p {
 	.SCMAKESTITLE {
 		display: none;
 	}
+	.wrap-for-mobile {
+		flex-wrap: wrap;
+	}
 	/* .wp-block-site-title {
 		display: none;
 	} */
@@ -75,6 +78,10 @@ h1, h2, h3, h4, h5, h6, blockquote, caption, figcaption, p {
 
 .contact-form-thankyou {
 	display:none;
+}
+
+#contactformbutton {
+	border-radius: 9999px;
 }
 
 .HoverRed:hover {

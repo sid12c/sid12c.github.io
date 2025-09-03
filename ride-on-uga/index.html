@@ -94,6 +94,7 @@ h1.has-background,h2.has-background,h3.has-background,h4.has-background,h5.has-b
 :root :where(.wp-block-navigation a:where(:not(.wp-element-button))){text-decoration: none;}
 :root :where(.wp-block-navigation a:where(:not(.wp-element-button)):hover){text-decoration: underline;}
 :root :where(.wp-block-heading){line-height: 1.2;}
+:root :where(.wp-block-navigation-link){HoverRed}
 </style>
 <style id="block-style-variation-styles-inline-css">
 :root :where(.is-style-post-terms-1--2 a:where(:not(.wp-element-button))){border-radius: 20px;border-color: var(--wp--preset--color--accent-6);border-width: 0.8px;border-style: solid;font-weight: 400;line-height: 2.8;padding-top: 5px;padding-right: 10px;padding-bottom: 5px;padding-left: 10px;text-decoration: none;}:root :where(.is-style-post-terms-1--2 a:where(:not(.wp-element-button)):hover){text-decoration: underline;}
@@ -185,7 +186,7 @@ h1.has-background,h2.has-background,h3.has-background,h4.has-background,h5.has-b
 						<div class="wp-block-navigation__responsive-dialog" data-wp-bind--aria-modal="state.ariaModal" data-wp-bind--aria-label="state.ariaLabel" data-wp-bind--role="state.roleAttribute">
 							<button aria-label="Close menu" class="wp-block-navigation__responsive-container-close" data-wp-on-async--click="actions.closeMenuOnClick"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false"><path d="m13.06 12 6.47-6.47-1.06-1.06L12 10.94 5.53 4.47 4.47 5.53 10.94 12l-6.47 6.47 1.06 1.06L12 13.06l6.47 6.47 1.06-1.06L13.06 12Z"></path></svg></button>
 							<div class="wp-block-navigation__responsive-container-content" data-wp-watch="callbacks.focusFirstElement" id="modal-1-content">
-								<ul class="wp-block-navigation__container is-responsive items-justified-right wp-block-navigation"><li class=" wp-block-navigation-item HoverRed wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/projects/"><span class="wp-block-navigation-item__label">Projects</span></a></li><li class=" wp-block-navigation-item HoverRed wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/contact/"><span class="wp-block-navigation-item__label">Contact</span></a></li></ul>
+								<ul class="wp-block-navigation__container is-responsive items-justified-right wp-block-navigation"><li data-wp-context="{ &quot;submenuOpenedBy&quot;: { &quot;click&quot;: false, &quot;hover&quot;: false, &quot;focus&quot;: false }, &quot;type&quot;: &quot;submenu&quot;, &quot;modal&quot;: null }" data-wp-interactive="core/navigation" data-wp-on--focusout="actions.handleMenuFocusout" data-wp-on--keydown="actions.handleMenuKeydown" data-wp-on-async--mouseenter="actions.openMenuOnHover" data-wp-on-async--mouseleave="actions.closeMenuOnHover" data-wp-watch="callbacks.initMenu" tabindex="-1" class="wp-block-navigation-item has-child open-on-hover-click HoverRed wp-block-navigation-submenu"><a class="wp-block-navigation-item__content" href="/projects/"><span class="wp-block-navigation-item__label">Projects</span></a><button data-wp-bind--aria-expanded="state.isMenuOpen" data-wp-on-async--click="actions.toggleMenuOnClick" aria-label="Projects submenu" class="wp-block-navigation__submenu-icon wp-block-navigation-submenu__toggle"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewbox="0 0 12 12" fill="none" aria-hidden="true" focusable="false"><path d="M1.50002 4L6.00002 8L10.5 4" stroke-width="1.5"></path></svg></button><ul data-wp-on-async--focus="actions.openMenuOnFocus" class="wp-block-navigation__submenu-container has-text-color has-custom-light-grey-color has-background has-custom-dark-grey-background-color HoverRed wp-block-navigation-submenu"><li class=" wp-block-navigation-item HoverRed wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/engineering/"><span class="wp-block-navigation-item__label">Engineering</span></a></li><li class=" wp-block-navigation-item HoverRed wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/books/"><span class="wp-block-navigation-item__label">Books</span></a></li></ul></li><li class=" wp-block-navigation-item HoverRed wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/contact/"><span class="wp-block-navigation-item__label">Contact</span></a></li></ul>
 							</div>
 						</div>
 					</div>
@@ -217,6 +218,10 @@ h1.has-background,h2.has-background,h3.has-background,h4.has-background,h5.has-b
 
 <div class="entry-content alignfull wp-block-post-content has-global-padding is-layout-constrained wp-block-post-content-is-layout-constrained">
 <p>I&rsquo;m excited to announce the launch of the new&nbsp;<strong>University of Georgia Motorcycle Club</strong>&nbsp;website! As a proud alumnus and former member, I had a blast building this site to give back to a community that means a lot to me. Built with HTML, CSS, and JavaScript, the site is a central hub for all things related to the club, making it easier than ever for riders to connect and get involved.</p>
+
+
+
+<span id="more-123"></span>
 
 
 
@@ -263,15 +268,15 @@ h1.has-background,h2.has-background,h3.has-background,h4.has-background,h5.has-b
 
 
 <div class="wp-block-buttons alignwide is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-a89b3969 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link has-text-align-center wp-element-button" href="https://ugamoto.github.io/">Visit the new website</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link has-text-align-center wp-element-button" href="https://ugamoto.github.io/" target="_blank" rel="noreferrer noopener">Visit the new website</a></div>
 
 
 
-<div class="wp-block-button"><a class="wp-block-button__link has-text-align-center wp-element-button" href="https://groupme.com/join_group/85757641/ky1zSb6n">Join the Community</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link has-text-align-center wp-element-button" href="https://groupme.com/join_group/85757641/ky1zSb6n" target="_blank" rel="noreferrer noopener">Join the Community</a></div>
 
 
 
-<div class="wp-block-button"><a class="wp-block-button__link has-text-align-center wp-element-button" href="https://www.instagram.com/motorcycleclubofuga">Follow on Instagram</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link has-text-align-center wp-element-button" href="https://www.instagram.com/motorcycleclubofuga" target="_blank" rel="noreferrer noopener">Follow on Instagram</a></div>
 </div>
 
 
@@ -287,7 +292,7 @@ h1.has-background,h2.has-background,h3.has-background,h4.has-background,h5.has-b
 <div class="wp-block-group alignwide is-layout-flow wp-block-group-is-layout-flow" style="margin-top:var(--wp--preset--spacing--60);margin-bottom:var(--wp--preset--spacing--60)">
 <nav class="wp-block-group alignwide is-content-justification-space-between is-nowrap is-layout-flex wp-container-core-group-is-layout-9b36172e wp-block-group-is-layout-flex" aria-label="Post navigation" style="border-top-color:var(--wp--preset--color--accent-6);border-top-width:1px;padding-top:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40)"><div class="post-navigation-link-previous wp-block-post-navigation-link"><span class="wp-block-post-navigation-link__arrow-previous is-arrow-chevron" aria-hidden="true">&laquo;</span><a href="/md-preview/" rel="prev">MD Preview</a></div>
 
-<div class="post-navigation-link-next wp-block-post-navigation-link"></div></nav>
+<div class="post-navigation-link-next wp-block-post-navigation-link"><a href="/the-github-handbook/" rel="next">The GitHub Handbook</a><span class="wp-block-post-navigation-link__arrow-next is-arrow-chevron" aria-hidden="true">&raquo;</span></div></nav>
 </div>
 </div>
 </main>
@@ -314,9 +319,9 @@ h1.has-background,h2.has-background,h3.has-background,h4.has-background,h5.has-b
 
 
 
-<div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-d7104b08 wp-block-group-is-layout-flex"><nav class="is-vertical wp-block-navigation is-layout-flex wp-container-core-navigation-is-layout-fe9cc265 wp-block-navigation-is-layout-flex" aria-label="Footer menu"><ul class="wp-block-navigation__container  is-vertical wp-block-navigation"><li class=" wp-block-navigation-item HoverRed wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="#"><span class="wp-block-navigation-item__label">Blog</span></a></li><li class=" wp-block-navigation-item HoverRed wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/projects"><span class="wp-block-navigation-item__label">Projects</span></a></li><li class=" wp-block-navigation-item HoverRed wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/about"><span class="wp-block-navigation-item__label">About</span></a></li><li class=" wp-block-navigation-item HoverRed wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/contact"><span class="wp-block-navigation-item__label">Contact</span></a></li></ul></nav>
+<div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-d7104b08 wp-block-group-is-layout-flex"><nav class="is-vertical wp-block-navigation is-layout-flex wp-container-core-navigation-is-layout-fe9cc265 wp-block-navigation-is-layout-flex" aria-label="Footer menu"><ul class="wp-block-navigation__container  is-vertical wp-block-navigation"><li class=" wp-block-navigation-item HoverRed wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/sidharth-chaudhary"><span class="wp-block-navigation-item__label">Home</span></a></li><li class=" wp-block-navigation-item HoverRed wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/404"><span class="wp-block-navigation-item__label">Blog</span></a></li><li class=" wp-block-navigation-item HoverRed wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/about"><span class="wp-block-navigation-item__label">About</span></a></li><li class=" wp-block-navigation-item HoverRed wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/contact"><span class="wp-block-navigation-item__label">Contact</span></a></li></ul></nav>
 
-<nav class="items-justified-left is-vertical wp-block-navigation is-content-justification-left is-layout-flex wp-container-core-navigation-is-layout-dd225191 wp-block-navigation-is-layout-flex" aria-label="Footer menu 2"><ul class="wp-block-navigation__container items-justified-left is-vertical wp-block-navigation"><li class=" wp-block-navigation-item HoverRed wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="#"><span class="wp-block-navigation-item__label">Events</span></a></li><li class=" wp-block-navigation-item HoverRed wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="#"><span class="wp-block-navigation-item__label">Shop</span></a></li><li class=" wp-block-navigation-item HoverRed wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="#"><span class="wp-block-navigation-item__label">Patterns</span></a></li><li class=" wp-block-navigation-item HoverRed wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/privacy-policy"><span class="wp-block-navigation-item__label">Privacy</span></a></li></ul></nav></div>
+<nav class="items-justified-left is-vertical wp-block-navigation is-content-justification-left is-layout-flex wp-container-core-navigation-is-layout-dd225191 wp-block-navigation-is-layout-flex" aria-label="Footer menu 2"><ul class="wp-block-navigation__container items-justified-left is-vertical wp-block-navigation"><li class=" wp-block-navigation-item HoverRed wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/projects"><span class="wp-block-navigation-item__label">Projects</span></a></li><li class=" wp-block-navigation-item HoverRed wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/books"><span class="wp-block-navigation-item__label">Books</span></a></li><li class=" wp-block-navigation-item HoverRed wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/404"><span class="wp-block-navigation-item__label">Games</span></a></li><li class=" wp-block-navigation-item HoverRed wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="/privacy-policy"><span class="wp-block-navigation-item__label">Privacy</span></a></li></ul></nav></div>
 </div>
 </div>
 
