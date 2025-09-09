@@ -60,7 +60,7 @@ h1, h2, h3, h4, h5, h6, blockquote, caption, figcaption, p {
 	display: block;
 }
 
-@media (max-width:500px){
+@media (min-width:600px) and (max-width:900px){
 
 	.SCMAKESTITLE {
 		display: none;
@@ -71,6 +71,7 @@ h1, h2, h3, h4, h5, h6, blockquote, caption, figcaption, p {
 	}
 	.nav-logo {
 		order: -1;
+
 	}
 	.nav-logo-img {
 		order: -1;
@@ -87,6 +88,52 @@ h1, h2, h3, h4, h5, h6, blockquote, caption, figcaption, p {
 	.mobile-nav-let-sub3 {
 		margin-bottom: 15px;
 	}
+	.SC-Makes-Title-Column {
+		display: none;
+	}
+	.wp-block-site-logo.aligncenter {
+		text-align: left;
+		padding-left: 20px;
+	}
+	/* .wp-block-site-title {
+		display: none;
+	} */
+}
+
+@media (max-width:599px) {
+
+	.SCMAKESTITLE {
+		display: none;
+		order: 1;
+	}
+	.wrap-for-mobile {
+		flex-wrap: wrap;
+	}
+	.nav-logo {
+		order: -1;
+		text-align: left;
+	}
+	.wp-block-site-logo.aligncenter {
+		text-align: left;
+		padding-left: 20px;
+	}
+	.nav-logo-img {
+		order: -1;
+	}
+	.SCMakes-logo-nav {
+		order: -1;
+		text-align: left;
+	}
+	.mobile-nav-let-sub1 {
+		margin-bottom: 15px;
+	}
+	.mobile-nav-let-sub2 {
+		margin-bottom: 15px;
+	}
+	.mobile-nav-let-sub3 {
+		margin-bottom: 15px;
+	}
+	
 	/* .wp-block-site-title {
 		display: none;
 	} */
