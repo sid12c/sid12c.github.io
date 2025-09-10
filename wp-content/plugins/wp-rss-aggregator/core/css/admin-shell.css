@@ -1,0 +1,48 @@
+#wpwrap {
+  position: fixed;
+  height: calc(100vh - 32px);
+}
+
+#adminmenu {
+  max-height: calc(100vh - 40px);
+  overflow-y: auto;
+}
+
+#wpwrap #wpcontent {
+  position: absolute;
+  inset: 0;
+  padding: 0;
+}
+
+#wpwrap #wpbody {
+  height: 100%;
+}
+
+#wpwrap #wpbody-content {
+  height: 100%;
+  min-height: 100%;
+  max-height: 100%;
+  padding-bottom: 0;
+}
+
+#wpfooter {
+  display: none;
+}
+
+#wpra-admin-ui-frame {
+  width: 100%;
+  height: 100%;
+  max-width: 100%;
+  max-height: 100%;
+  overflow: hidden;
+  border: none;
+  background: #fff;
+}
+
+ul#adminmenu > li#toplevel_page_aggregator.current > a.current:after {
+  border-right-color: #fff;
+}
+
+#wpbody-content .notice {
+  display:none;
+}

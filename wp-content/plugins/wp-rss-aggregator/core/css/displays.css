@@ -1,0 +1,119 @@
+img.wpra-auto-size {
+  width: 100%;
+  object-fit: cover;
+}
+
+/* ====== LIST LAYOUT ====== */
+
+/* An item in the list */
+div.wpra-list-template .wpra-item-list>li.wpra-item {
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+
+/* Separators between source, date and author */
+div.wpra-list-template .wpra-item-list>li.wpra-item>div.wprss-feed-meta>span {
+  font-size: 90%;
+  clear: both;
+}
+
+div.wpra-list-template .wpra-item-list>li.wpra-item>div.wprss-feed-meta>span:not(:last-child):after {
+  content: " | ";
+}
+
+.wpra-item-list:not(.wpra-item-list--bullets) {
+  list-style: none;
+}
+
+.wpra-item-list:not(.wpra-item-list--bullets) li {
+  margin-left: 0;
+}
+
+.wpra-item-list--bullets.wpra-item-list--default {
+  list-style: disc;
+}
+
+.wpra-item-list--bullets.wpra-item-list--numbers {
+  list-style: decimal;
+}
+
+/* Audio player */
+.wpra-feed-audio {
+  display: block;
+  margin: 0 5px;
+}
+
+.wpra-feed-audio audio {
+  width: 100%;
+}
+
+.thumbnail-excerpt {
+  overflow: hidden;
+  margin-bottom: 5px;
+}
+
+.thumbnail-excerpt img {
+  max-width: 100%;
+  float: left;
+  margin-top: 0.5em;
+  margin-right: 10px;
+}
+
+.thumbnail-excerpt .more-link {
+  margin-left: .125rem;
+}
+
+.nav-links {
+  overflow: hidden;
+  margin-bottom: 20px;
+}
+
+.nav-links::after {
+  display: block;
+  content: "";
+  clear: both;
+}
+
+.nav-links a {
+  cursor: pointer;
+}
+
+/* ====== PAGINATION ====== */
+
+.wpra-nav-links {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+.wpra-nav-links.wpra-default-nav-links {
+  justify-content: space-between;
+}
+
+.wpra-nav-links.wpra-default-nav-links div {
+  flex: 1;
+}
+
+.wpra-nav-links.numbered {
+  justify-content: center;
+}
+
+.wpra-nav-links .alignright {
+  text-align: right;
+}
+
+/* ====== Filter section ====== */
+.wpra-display-filter-sidebar .flex.flex-col.items-stretch.gap-2 button:nth-of-type(2) {
+  all: unset;
+  display: inline;
+  cursor: default;
+  font-size: 13px;
+  font-weight: 700;
+  color: inherit;
+  margin-top: 5px;
+  pointer-events: none;
+}
+
+.wpra-display-filter-sidebar .flex.flex-col.items-stretch.gap-2 button:nth-of-type(2) svg {
+  display: none !important;
+}

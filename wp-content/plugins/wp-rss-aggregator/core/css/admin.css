@@ -1,0 +1,14 @@
+#toplevel_page_aggregator ul.wp-submenu li.wp-first-item:not(:last-of-type),
+#toplevel_page_aggregator ul.wp-submenu li:nth-child(5) {
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+    border-bottom: 1px solid #949494;
+}
+
+#adminmenu #toplevel_page_aggregator div.wp-menu-image.svg {
+    background-size: 16px auto;
+}
+
+span.wpra-delete-reject > a {
+    color: #b32d2e;
+}

@@ -1,0 +1,67 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "wpra-shortcode/wpra-shortcode",
+  "version": "1.0.0",
+  "title": "RSS Aggregator Display",
+  "category": "widgets",
+  "icon": "rss",
+  "description": "Display RSS feed content",
+  "keywords": [
+    "wpra",
+    "display",
+    "aggregator",
+    "rss",
+    "feed"
+  ],
+  "supports": {
+    "align": true,
+    "html": false
+  },
+  "attributes": {
+    "id": {
+      "type": "number",
+      "default": 0
+    },
+    "align": {
+      "type": "string"
+    },
+    "isAll": {
+      "type": "boolean"
+    },
+    "template": {
+      "type": "string"
+    },
+    "pagination": {
+      "type": "boolean"
+    },
+    "page": {
+      "type": "number"
+    },
+    "limit": {
+      "type": "number"
+    },
+    "exclude": {
+      "type": "string"
+    },
+    "source": {
+      "type": "string"
+    },
+    "className": {
+      "type": "string"
+    }
+  },
+  "textdomain": "wprss",
+  "editorScript": "wpra-block",
+  "editorStyle": [
+    "wpra-displays",
+    "wpra-et-layout-css",
+    "wpra-grid-layout-css"
+  ],
+  "style": [
+    "wpra-displays",
+    "wpra-et-layout-css",
+    "wpra-grid-layout-css"
+  ],
+  "render": "server-render"
+}

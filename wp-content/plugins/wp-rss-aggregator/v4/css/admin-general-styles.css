@@ -1,0 +1,396 @@
+/*
+ * These are the styles that get enqueued by WP RSS Aggregator on all pages of
+ * the admin panel.
+ */
+
+#menu-posts-wprss_feed .dashicons {
+    vertical-align: text-top;
+}
+
+.dashicons-star-filled.wprss-more-features-glyph {
+    color: #ffd700;
+    margin-left: 5px;
+    font-size: 12pt;
+}
+
+table.plugins tbody tr[data-slug="wp-rss-aggregator-excerpts-and-thumbnails"] > td,
+table.plugins tbody tr[data-slug="wp-rss-aggregator-excerpts-and-thumbnails"] > th {
+    box-shadow: none !important;
+}
+
+table.plugins tbody tr.wprss-et-plugin-row-msg > td > div > p::before {
+    content: "\f348";
+    color: #00a0d2;
+}
+
+/* Hide the image options in the new/edit page */
+.postbox-container #wpra-images {
+    display: none;
+}
+
+.wpra-footer {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 45px;
+  display: block;
+  margin-left: 180px;
+  margin-right: 20px;
+}
+
+.wpra-footer-grid {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  grid-gap: 8px;
+  gap: 8px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+@media only screen and (max-width: 960px) {
+  .wpra-footer {
+    margin-left: 56px;
+  }
+}
+
+@media screen and (max-width: 782px) {
+  .wpra-footer {
+    margin-left: 20px;
+  }
+}
+
+.wpra-footer-link {
+  flex: 2;
+  min-width: 380px;
+  text-decoration: none;
+  cursor: pointer !important;
+}
+
+.wpra-footer-link:last-child {
+  flex: 1;
+}
+
+.wpra-footer-box {
+  display: flex;
+  flex-flow: row;
+  justify-content: space-between;
+  color: #333;
+  width: 100%;
+  height: 62px;
+  padding: 10px 15px !important;
+  background: #fafafa;
+  border: 1px solid #d4d8dc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  cursor: pointer !important;
+}
+
+.wpra-footer-box .wpra-footer-col {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.wpra-footer-box .wpra-footer-box-icon {
+  flex: 0 0 42px;
+  height: 40px;
+  padding: 4px 0;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+.wpra-footer-box .wpra-footer-box-text {
+  flex: 1;
+  line-height: 20px;
+  white-space: nowrap;
+  text-align: left;
+}
+
+.wpra-footer-box .wpra-footer-box-text div:first-child {
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.wpra-footer-box .wpra-footer-box-text div:last-child {
+  font-size: 12px;
+}
+
+.wpra-footer-box .wpra-footer-box-external {
+  flex: 0 0 20px;
+  justify-content: flex-start;
+  overflow: hidden
+}
+
+.wpra-footer-box .wpra-footer-col:not(:last-child) {
+  margin-right: 10px;
+}
+
+/* Download Guide notice */
+
+#wpra-dl-guide-notice {
+  display: flex;
+  flex-flow: row nowrap;
+  padding: 0;
+  background: #fff;
+  border: 1px solid #FF792B;
+  border-left-width: 4px;
+  box-sizing: border-box;
+}
+
+.wpra-dl-guide-left {
+  padding: 10px;
+  background: rgb(255, 121, 43, .1);
+  box-sizing: border-box;
+}
+
+.wpra-dl-guide-left img {
+  width: 30px;
+  aspect-ratio: 1;
+}
+
+.wpra-dl-guide-content {
+  flex: 1;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  align-items: center;
+  gap:  10px;
+  padding: 10px 12px;
+}
+
+.wpra-dl-guide-content h3 {
+  font-size: 16px;
+  font-weight: bold;
+  margin: 0 0 8px;
+  line-height: 1em;
+}
+
+.wpra-dl-guide-content p {
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+  word-wrap: normal;
+}
+
+.wpra-dl-guide-content-col {
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: stretch;
+}
+
+.wpra-dl-guide-form {
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
+  gap: 5px;
+  margin-top: 5px;
+}
+
+#wpra-dl-guide-name-field {
+  flex: 1 1 120px;
+  width: 120px;
+  min-width: unset;
+  max-width: unset;
+}
+
+#wpra-dl-guide-email-field {
+  flex: 1 1 250px;
+  width: 250px;
+  min-width: unset;
+  max-width: unset;
+}
+
+#wpra-dl-guide-btn {
+  flex: 0 0 auto;
+  font-size: 12px;
+  font-weight: bold;
+  color: #fff;
+  background: #043884;
+  border: 0;
+  border-radius: 3px;
+  padding: 8px 14px;
+  height: 30px;
+  line-height: 1;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 960px) {
+  .wpra-dl-guide-content {
+    flex-flow: column nowrap;
+    align-items: stretch;
+    justify-content: flex-start;
+    gap: 10px;
+  }
+
+  .wpra-dl-guide-content-col {
+    flex: 1 0 auto;
+  }
+
+  .wpra-dl-guide-fields {
+    flex: 1;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  #wpra-dl-guide-name-field {
+    flex: 1 1 30%;
+  }
+
+  #wpra-dl-guide-email-field {
+    flex: 1 1 50%;
+  }
+}
+
+@media screen and (max-width: 782px) {
+  .wpra-dl-guide-form {
+    display: block;
+    gap: 5px;
+  }
+
+  #wpra-dl-guide-email-field {
+    display: block;
+    width: 100%;
+  }
+
+  #wpra-dl-guide-btn {
+    display: block;
+    margin-top: 5px;
+    width: 100%;
+    height: unset;
+    font-size: 14px;
+    padding: 15px 20px;
+  }
+}
+
+#wpra-dl-guide-btn:hover {
+  box-shadow: 0 0 50px rgba(0, 0, 0, .5) inset;
+}
+
+#wpra-dl-guide-btn:focus-visible {
+  border: 0;
+  outline: 0;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 3px #043884;
+}
+
+#wpra-dl-guide-btn[disabled="disabled"] {
+  color: #fff;
+  background: #677282;
+  cursor: not-allowed;
+  pointer-events: none;
+}
+
+label[for='wpra-dl-guide-email-field'] {
+  color: #666;
+  font-size: 12px;
+}
+
+#wpra-dl-guide-close-btn {
+  color: #666;
+  background: none;
+  border: 0;
+  outline: 0;
+  padding: 2px;
+  margin: 8px;
+  border-radius: 50%;
+  box-shadow: none;
+  cursor: pointer;
+}
+
+#wpra-dl-guide-close-btn:hover {
+  color: #444;
+}
+
+#wpra-dl-guide-close-btn:focus-visible {
+  outline: 1px dotted #000;
+}
+
+#wpra-dl-guide-error {
+  display: none;
+  color: #d63638;
+  margin-top: 3px;
+  padding: 0 3px;
+}
+
+#wpra-dl-guide-success {
+  display: none;
+}
+
+#wpra-dl-guide-success h3 {
+  margin: 0 0 10px;
+  font-size: 16px;
+}
+
+#wpra-dl-guide-success p {
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+#wpra-dl-guide-success .wpra-dl-guide-close-btn {
+  display: block;
+  margin-top: 10px;
+}
+
+#wpra-dl-guide-dismiss-link {
+  display: inline-block;
+  margin-top: 5px;
+}
+
+.wpra-v5-notice {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    border: 1px solid #CCCCCC;
+    border-left: 4px solid #FF792B;
+    padding: 0 !important;
+}
+
+.wpra-v5-notice .wpra-v5-notice-left {
+    flex: 0 1;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+    padding: 18px 8px;
+    background-color: #F6F7FB;
+}
+
+.wpra-v5-notice .wpra-v5-notice-right {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    padding: 18px 24px;
+}
+
+.wpra-v5-notice .wpra-v5-notice-right h3 {
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.wpra-v5-notice .wpra-v5-notice-right p {
+  font-size: 13px;
+  line-height: 16px;
+}
+
+.wpra-v5-notice .wpra-v5-notice-right h3,
+.wpra-v5-notice .wpra-v5-notice-right p {
+    margin: 0 !important;
+}
+
+button.wpra-v5-notice-close {
+    all: unset;
+    appearance: none;
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    cursor: pointer;
+}
+
+button.wpra-v5-notice-close:focus-visible {
+    outline: 2px dotted #000;
+}
