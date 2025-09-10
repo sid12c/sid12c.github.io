@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Home &#8211; SC Makes</title>
+	<atom:link href="/category/projects/engineering/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Mon, 08 Sep 2025 22:18:26 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2025/08/SCMakesLogoGreyRed-150x150.png</url>
+	<title>Home &#8211; SC Makes</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Ride On, UGA!</title>
+		<link>/projects/engineering/ride-on-uga/</link>
+		
+		<dc:creator><![CDATA[Sidharth Chaudhary]]></dc:creator>
+		<pubDate>Fri, 25 Jul 2025 01:33:38 +0000</pubDate>
+				<category><![CDATA[Engineering]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[HTML]]></category>
+		<category><![CDATA[JS]]></category>
+		<category><![CDATA[Motorcycles]]></category>
+		<category><![CDATA[Open-Sourced]]></category>
+		<guid isPermaLink="false">/?p=123</guid>
+
+					<description><![CDATA[<p>I&#8217;m excited to announce the launch of the new&#160;University of Georgia Motorcycle Club&#160;website! As a proud alumnus and former member, I had a blast building this site to give back to a community that means a lot to me. Built with HTML, CSS, and JavaScript, the site is a central hub for all things related [&#8230;]</p>
+<p>The post <a href="/projects/engineering/ride-on-uga/">Ride On, UGA!</a> appeared first on <a href="/">SC Makes</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>I&#8217;m excited to announce the launch of the new&nbsp;<strong>University of Georgia Motorcycle Club</strong>&nbsp;website! As a proud alumnus and former member, I had a blast building this site to give back to a community that means a lot to me. Built with HTML, CSS, and JavaScript, the site is a central hub for all things related to the club, making it easier than ever for riders to connect and get involved.</p>
+
+
+
+<span id="more-123"></span>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 class="wp-block-heading">A Hub for All Riders</h2>
+
+
+
+<p>The new site is designed to be as bold and adventurous as the club itself. You can find everything you need to know, from the club&#8217;s mission of promoting safe riding to a gallery of our best adventures on the road.</p>
+
+
+
+<p>I&#8217;ve made it super simple to join the community. Whether you&#8217;re a student, an alum, or just a motorcycle enthusiast, you can easily find links to the club&#8217;s&nbsp;<strong>Instagram</strong>&nbsp;and&nbsp;<strong>GroupMe</strong>&nbsp;to stay updated on all rides and events.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 class="wp-block-heading">A Little Surprise</h2>
+
+
+
+<p>As a fun little tribute to the club, I&#8217;ve hidden a small easter egg on the website. I&#8217;d love for you to explore the site and see if you can find it. </p>
+
+
+
+<details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow"><summary>Hint</summary>
+<p>The easter egg is hidden in plain sight, somewhere in the footer. Try interacting with a certain part of the text down there—you might be surprised by what you find.</p>
+</details>
+
+
+
+<p>I hope this new site helps grow the UGA Motorcycle Club. It was a blast working on it, and I can&#8217;t wait to see what adventures the club gets up to next.</p>
+
+
+
+<div style="height:25px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-buttons alignwide is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-a89b3969 wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link has-text-align-center wp-element-button" href="https://ugamoto.github.io/" target="_blank" rel="noreferrer noopener">Visit the new website</a></div>
+
+
+
+<div class="wp-block-button"><a class="wp-block-button__link has-text-align-center wp-element-button" href="https://groupme.com/join_group/85757641/ky1zSb6n" target="_blank" rel="noreferrer noopener">Join the Community</a></div>
+
+
+
+<div class="wp-block-button"><a class="wp-block-button__link has-text-align-center wp-element-button" href="https://www.instagram.com/motorcycleclubofuga" target="_blank" rel="noreferrer noopener">Follow on Instagram</a></div>
+</div>
+
+
+
+<p></p>
+<p>The post <a href="/projects/engineering/ride-on-uga/">Ride On, UGA!</a> appeared first on <a href="/">SC Makes</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>MD Preview</title>
+		<link>/projects/engineering/md-preview/</link>
+		
+		<dc:creator><![CDATA[Sidharth Chaudhary]]></dc:creator>
+		<pubDate>Wed, 23 Jul 2025 08:41:51 +0000</pubDate>
+				<category><![CDATA[Engineering]]></category>
+		<category><![CDATA[Markdown]]></category>
+		<category><![CDATA[Open-Sourced]]></category>
+		<category><![CDATA[Rust]]></category>
+		<guid isPermaLink="false">/?p=102</guid>
+
+					<description><![CDATA[<p>Tired of leaving your terminal to view a simple Markdown file? Meet&#160;md-preview, a powerful new command-line tool written in&#160;Rust&#160;that brings beautiful, formatted Markdown directly to your terminal screen. It&#8217;s designed to be fast, efficient, and highly readable, so you can focus on your work without context switching. Why&#160;md-preview? While many tools exist for viewing Markdown,&#160;md-preview&#160;is [&#8230;]</p>
+<p>The post <a href="/projects/engineering/md-preview/">MD Preview</a> appeared first on <a href="/">SC Makes</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow"><summary>Summary</summary>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>md-preview is a command-line tool written in Rust that renders Markdown files directly in your terminal, applying syntax highlighting and formatting. It leverages&nbsp;<code>pulldown-cmark</code>&nbsp;for robust Markdown parsing and&nbsp;<code>termcolor</code>&nbsp;for rich, colored output.</p>
+</blockquote>
+</details>
+
+
+
+<p>Tired of leaving your terminal to view a simple Markdown file? Meet&nbsp;<strong><code>md-preview</code></strong>, a powerful new command-line tool written in&nbsp;<strong>Rust</strong>&nbsp;that brings beautiful, formatted Markdown directly to your terminal screen. It&#8217;s designed to be fast, efficient, and highly readable, so you can focus on your work without context switching.</p>
+
+
+
+<span id="more-102"></span>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 class="wp-block-heading">Why&nbsp;<code>md-preview</code>?</h2>
+
+
+
+<p>While many tools exist for viewing Markdown,&nbsp;<code>md-preview</code>&nbsp;is built specifically for the terminal environment. It uses&nbsp;<strong><code>pulldown-cmark</code></strong> for fast and accurate Markdown parsing and&nbsp;<strong><code>termcolor</code></strong>&nbsp;to apply rich syntax highlighting and formatting. This isn&#8217;t just a simple text dump; <code>md-preview</code>&nbsp;understands the structure of your document, rendering elements like headings, bold text, lists, and even tables with distinct colors and proper alignment.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 class="wp-block-heading"><strong>Key Features:</strong></h2>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Customizable</strong>: You can choose to show or hide the original Markdown symbols (like&nbsp;<code>#</code>&nbsp;or&nbsp;<code>**</code>) and even center the content in your terminal for better readability.</li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Syntax Highlighting</strong>: Easily distinguish between different Markdown elements at a glance.</li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Table Rendering</strong>: Tables are rendered with clean borders and proper alignment, making them easy to read.</li>
+</ul>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 class="wp-block-heading">Usage</h2>
+
+
+
+<p>Once installed, you can use it right away:</p>
+
+
+
+<ul class="wp-block-list">
+<li>To render a file with default settings:</li>
+</ul>
+
+
+
+<pre class="wp-block-code" style="line-height:0"><code><code>md-preview README.md</code></code></pre>
+
+
+
+<ul class="wp-block-list">
+<li>To show the original Markdown symbols:</li>
+</ul>
+
+
+
+<pre class="wp-block-code" style="line-height:0"><code><code>md-preview MyDocument.md --symbol</code></code></pre>
+
+
+
+<ul class="wp-block-list">
+<li>To center the content for a more focused view:</li>
+</ul>
+
+
+
+<pre class="wp-block-code" style="line-height:0"><code><code>md-preview Notes.md --center 10</code></code></pre>
+
+
+
+<p><code>md-preview</code>&nbsp;is perfect for anyone who works with Markdown files and wants a seamless, terminal-native viewing experience. It&#8217;s a testament to the power and performance of Rust.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>I&#8217;d love for you to give it a try. Head over to the&nbsp;<strong>GitHub repository</strong>&nbsp;to get the code and start using&nbsp;<code>md-preview</code>&nbsp;today. Let me know what you think!</p>
+
+
+
+<div style="height:25px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-a89b3969 wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://github.com/sid12c/md-preview" target="_blank" rel="noreferrer noopener">View on GitHub</a></div>
+</div>
+
+
+
+<div style="height:25px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">Samples</h2>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure data-wp-context="{&quot;imageId&quot;:&quot;68c1e1471ce02&quot;}" data-wp-interactive="core/image" class="wp-block-image size-full wp-lightbox-container"><img fetchpriority="high" decoding="async" width="1136" height="498" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on-async--click="actions.showLightbox" data-wp-on-async--load="callbacks.setButtonStyles" data-wp-on-async-window--resize="callbacks.setButtonStyles" data-id="108" src="/wp-content/uploads/2025/08/Screenshot-2025-08-25-at-4.31.24-AM-1.png" alt="Generated Markdown with symbols" class="wp-image-108" srcset="/wp-content/uploads/2025/08/Screenshot-2025-08-25-at-4.31.24-AM-1.png 1136w, /wp-content/uploads/2025/08/Screenshot-2025-08-25-at-4.31.24-AM-1-300x132.png 300w, /wp-content/uploads/2025/08/Screenshot-2025-08-25-at-4.31.24-AM-1-1024x449.png 1024w, /wp-content/uploads/2025/08/Screenshot-2025-08-25-at-4.31.24-AM-1-768x337.png 768w" sizes="(max-width: 1136px) 100vw, 1136px" /><button
+			class="lightbox-trigger"
+			type="button"
+			aria-haspopup="dialog"
+			aria-label="Enlarge"
+			data-wp-init="callbacks.initTriggerButton"
+			data-wp-on-async--click="actions.showLightbox"
+			data-wp-style--right="state.imageButtonRight"
+			data-wp-style--top="state.imageButtonTop"
+		>
+			<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="none" viewBox="0 0 12 12">
+				<path fill="#fff" d="M2 0a2 2 0 0 0-2 2v2h1.5V2a.5.5 0 0 1 .5-.5h2V0H2Zm2 10.5H2a.5.5 0 0 1-.5-.5V8H0v2a2 2 0 0 0 2 2h2v-1.5ZM8 12v-1.5h2a.5.5 0 0 0 .5-.5V8H12v2a2 2 0 0 1-2 2H8Zm2-12a2 2 0 0 1 2 2v2h-1.5V2a.5.5 0 0 0-.5-.5H8V0h2Z" />
+			</svg>
+		</button><figcaption class="wp-element-caption">Generated Markdown with symbols</figcaption></figure>
+
+
+
+<figure data-wp-context="{&quot;imageId&quot;:&quot;68c1e1471d073&quot;}" data-wp-interactive="core/image" class="wp-block-image size-full wp-lightbox-container"><img decoding="async" width="1008" height="466" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on-async--click="actions.showLightbox" data-wp-on-async--load="callbacks.setButtonStyles" data-wp-on-async-window--resize="callbacks.setButtonStyles" data-id="107" src="/wp-content/uploads/2025/08/Screenshot-2025-08-25-at-4.33.07-AM-1.png" alt="Generated Markdown without symbols" class="wp-image-107" srcset="/wp-content/uploads/2025/08/Screenshot-2025-08-25-at-4.33.07-AM-1.png 1008w, /wp-content/uploads/2025/08/Screenshot-2025-08-25-at-4.33.07-AM-1-300x139.png 300w, /wp-content/uploads/2025/08/Screenshot-2025-08-25-at-4.33.07-AM-1-768x355.png 768w" sizes="(max-width: 1008px) 100vw, 1008px" /><button
+			class="lightbox-trigger"
+			type="button"
+			aria-haspopup="dialog"
+			aria-label="Enlarge"
+			data-wp-init="callbacks.initTriggerButton"
+			data-wp-on-async--click="actions.showLightbox"
+			data-wp-style--right="state.imageButtonRight"
+			data-wp-style--top="state.imageButtonTop"
+		>
+			<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="none" viewBox="0 0 12 12">
+				<path fill="#fff" d="M2 0a2 2 0 0 0-2 2v2h1.5V2a.5.5 0 0 1 .5-.5h2V0H2Zm2 10.5H2a.5.5 0 0 1-.5-.5V8H0v2a2 2 0 0 0 2 2h2v-1.5ZM8 12v-1.5h2a.5.5 0 0 0 .5-.5V8H12v2a2 2 0 0 1-2 2H8Zm2-12a2 2 0 0 1 2 2v2h-1.5V2a.5.5 0 0 0-.5-.5H8V0h2Z" />
+			</svg>
+		</button><figcaption class="wp-element-caption">Generated Markdown without symbols</figcaption></figure>
+</figure>
+
+
+
+<p></p>
+<p>The post <a href="/projects/engineering/md-preview/">MD Preview</a> appeared first on <a href="/">SC Makes</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Signal Generator</title>
+		<link>/projects/engineering/signal-generator/</link>
+		
+		<dc:creator><![CDATA[Sidharth Chaudhary]]></dc:creator>
+		<pubDate>Thu, 20 Feb 2025 07:43:45 +0000</pubDate>
+				<category><![CDATA[Engineering]]></category>
+		<category><![CDATA[Embedded Systems]]></category>
+		<category><![CDATA[Open-Sourced]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[Raspberry Pi 4]]></category>
+		<guid isPermaLink="false">/?p=88</guid>
+
+					<description><![CDATA[<p>I&#8217;m excited to share a new Python tool I&#8217;ve developed,&#160;SignalGenerator. This script is specifically designed with embedded systems in mind, providing a simple yet powerful way to generate and test audio waveforms. While it works on any system with PyAudio, its real value shines when used with hardware like the&#160;Raspberry Pi 4&#8217;s onboard digital-to-analog converter [&#8230;]</p>
+<p>The post <a href="/projects/engineering/signal-generator/">Signal Generator</a> appeared first on <a href="/">SC Makes</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+<details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow"><summary>Summary</summary>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p class="has-medium-font-size">This Python script generates and plays a waveform (sine or square) of a specified frequency, duration, and amplitude using the&nbsp;<code>pyaudio</code>&nbsp;and&nbsp;<code>numpy</code>&nbsp;libraries.</p>
+</blockquote>
+</details>
+</div>
+
+
+
+<p>I&#8217;m excited to share a new Python tool I&#8217;ve developed,&nbsp;<strong>SignalGenerator</strong>. This script is specifically designed with embedded systems in mind, providing a simple yet powerful way to generate and test audio waveforms. While it works on any system with PyAudio, its real value shines when used with hardware like the&nbsp;<strong>Raspberry Pi 4&#8217;s onboard digital-to-analog converter (DAC)</strong>&nbsp;for quick and easy signal testing.</p>
+
+
+
+<span id="more-88"></span>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 class="wp-block-heading">Why SignalGenerator for Embedded Systems?</h2>
+
+
+
+<p>When working with embedded systems, you often need to generate test signals to verify hardware functionality, troubleshoot audio circuits, or calibrate sensors. Manually setting up a signal generator can be cumbersome. SignalGenerator simplifies this process by allowing you to create and output precise sine, square, or frequency sweep signals directly from the command line, turning your Raspberry Pi into a versatile signal source. This is particularly useful for engineers and hobbyists prototyping audio applications or testing the performance of their DAC and related circuitry.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 class="wp-block-heading">Features and Usage</h2>
+
+
+
+<p>SignalGenerator is built on Python and uses&nbsp;<code>NumPy</code>&nbsp;for waveform generation and&nbsp;<code>PyAudio</code>&nbsp;for output. It&#8217;s lightweight and easy to install.</p>
+
+
+
+<p>To get started, simply install the required libraries:</p>
+
+
+
+<pre class="wp-block-code" style="line-height:0"><code><code>pip install numpy pyaudio argparse</code></code></pre>
+
+
+
+<p>The script&#8217;s command-line interface makes it easy to specify the exact signal you need.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Key Features:</strong></h3>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Waveform Types:</strong>&nbsp;Generate&nbsp;<strong>sine waves</strong>,&nbsp;<strong>square waves</strong>, or a&nbsp;<strong>frequency sweep</strong>.</li>
+
+
+
+<li><strong>Customizable Parameters:</strong>&nbsp;Easily set the&nbsp;<strong>duration</strong>,&nbsp;<strong>frequency</strong>, and&nbsp;<strong>amplitude</strong>&nbsp;of your signal.</li>
+
+
+
+<li><strong>Frequency Sweep Mode:</strong>&nbsp;Test a range of frequencies to analyze the frequency response of your hardware. This mode is a game-changer for evaluating the performance of filters, amplifiers, or the DAC itself across different frequencies.</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading"><strong>Example Usage on a Raspberry Pi:</strong></h3>
+
+
+
+<ul class="wp-block-list">
+<li>Test your DAC with a 440 Hz sine wave:&nbsp;</li>
+</ul>
+
+
+
+<pre class="wp-block-code" style="line-height:0"><code><code>python siggen.py sine -f 440</code></code></pre>
+
+
+
+<ul class="wp-block-list">
+<li>Check a high-frequency filter&#8217;s performance with a 10-second sweep:&nbsp;</li>
+</ul>
+
+
+
+<pre class="wp-block-code" style="line-height:0"><code><code>python siggen.py sweep -f 1000 -e 20000 -s 500</code></code></pre>
+
+
+
+<ul class="wp-block-list">
+<li>Send a 1 kHz square wave to a connected circuit:&nbsp;</li>
+</ul>
+
+
+
+<pre class="wp-block-code" style="line-height:0"><code><code>python siggen.py square -f 1000</code></code></pre>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h3 class="wp-block-heading">A Note on the Raspberry Pi DAC</h3>
+
+
+
+<p>The Raspberry Pi 4 has a built-in DAC that provides audio output through its 3.5mm jack. This DAC can be used as the output &#8220;sink&#8221; for SignalGenerator. By connecting a simple audio breakout cable to the Pi&#8217;s audio jack, you can easily probe the generated signal with an oscilloscope or feed it into another circuit. This direct, no-hassle approach makes SignalGenerator an invaluable tool for on-the-fly testing and development.</p>
+
+
+
+<p>I encourage you to try out SignalGenerator on your next embedded systems project. You can find the full details and source code on the <strong>GitHub repository</strong>. I hope this tool helps streamline your workflow and makes testing your hardware a breeze!</p>
+
+
+
+<div style="height:25px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-a89b3969 wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://github.com/sid12c/SignalGenerator" target="_blank" rel="noreferrer noopener">View on GitHub</a></div>
+</div>
+
+
+
+<div style="height:25px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">Samples</h2>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure data-wp-context="{&quot;imageId&quot;:&quot;68c1e1471ea91&quot;}" data-wp-interactive="core/image" class="wp-block-image size-full is-style-default wp-lightbox-container"><img decoding="async" width="1024" height="600" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on-async--click="actions.showLightbox" data-wp-on-async--load="callbacks.setButtonStyles" data-wp-on-async-window--resize="callbacks.setButtonStyles" data-id="89" src="/wp-content/uploads/2025/08/RigolDS1.png" alt="Sine wave generated waveform" class="wp-image-89" srcset="/wp-content/uploads/2025/08/RigolDS1.png 1024w, /wp-content/uploads/2025/08/RigolDS1-300x176.png 300w, /wp-content/uploads/2025/08/RigolDS1-768x450.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><button
+			class="lightbox-trigger"
+			type="button"
+			aria-haspopup="dialog"
+			aria-label="Enlarge"
+			data-wp-init="callbacks.initTriggerButton"
+			data-wp-on-async--click="actions.showLightbox"
+			data-wp-style--right="state.imageButtonRight"
+			data-wp-style--top="state.imageButtonTop"
+		>
+			<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="none" viewBox="0 0 12 12">
+				<path fill="#fff" d="M2 0a2 2 0 0 0-2 2v2h1.5V2a.5.5 0 0 1 .5-.5h2V0H2Zm2 10.5H2a.5.5 0 0 1-.5-.5V8H0v2a2 2 0 0 0 2 2h2v-1.5ZM8 12v-1.5h2a.5.5 0 0 0 .5-.5V8H12v2a2 2 0 0 1-2 2H8Zm2-12a2 2 0 0 1 2 2v2h-1.5V2a.5.5 0 0 0-.5-.5H8V0h2Z" />
+			</svg>
+		</button><figcaption class="wp-element-caption">Sine wave generated waveform</figcaption></figure>
+
+
+
+<figure data-wp-context="{&quot;imageId&quot;:&quot;68c1e1471ecb7&quot;}" data-wp-interactive="core/image" class="wp-block-image size-full wp-lightbox-container"><img loading="lazy" decoding="async" width="1024" height="600" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on-async--click="actions.showLightbox" data-wp-on-async--load="callbacks.setButtonStyles" data-wp-on-async-window--resize="callbacks.setButtonStyles" data-id="90" src="/wp-content/uploads/2025/08/RigolDS3.png" alt="Square wave generated waveform" class="wp-image-90" srcset="/wp-content/uploads/2025/08/RigolDS3.png 1024w, /wp-content/uploads/2025/08/RigolDS3-300x176.png 300w, /wp-content/uploads/2025/08/RigolDS3-768x450.png 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><button
+			class="lightbox-trigger"
+			type="button"
+			aria-haspopup="dialog"
+			aria-label="Enlarge"
+			data-wp-init="callbacks.initTriggerButton"
+			data-wp-on-async--click="actions.showLightbox"
+			data-wp-style--right="state.imageButtonRight"
+			data-wp-style--top="state.imageButtonTop"
+		>
+			<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="none" viewBox="0 0 12 12">
+				<path fill="#fff" d="M2 0a2 2 0 0 0-2 2v2h1.5V2a.5.5 0 0 1 .5-.5h2V0H2Zm2 10.5H2a.5.5 0 0 1-.5-.5V8H0v2a2 2 0 0 0 2 2h2v-1.5ZM8 12v-1.5h2a.5.5 0 0 0 .5-.5V8H12v2a2 2 0 0 1-2 2H8Zm2-12a2 2 0 0 1 2 2v2h-1.5V2a.5.5 0 0 0-.5-.5H8V0h2Z" />
+			</svg>
+		</button><figcaption class="wp-element-caption">Square wave generated waveform</figcaption></figure>
+</figure>
+
+
+
+<figure class="wp-block-video"><video controls muted src="/wp-content/uploads/2025/08/IMG_3885-2.mov"></video><figcaption class="wp-element-caption">Analog Signal Sweep </figcaption></figure>
+
+
+
+<p></p>
+
+
+
+<p></p>
+<p>The post <a href="/projects/engineering/signal-generator/">Signal Generator</a> appeared first on <a href="/">SC Makes</a>.</p>
+]]></content:encoded>
+					
+		
+		<enclosure url="/wp-content/uploads/2025/08/IMG_3885-2.mov" length="81976746" type="video/quicktime" />
+
+			</item>
+	</channel>
+</rss>

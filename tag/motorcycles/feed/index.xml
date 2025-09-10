@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Home &#8211; SC Makes</title>
+	<atom:link href="/tag/motorcycles/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Mon, 08 Sep 2025 22:18:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2025/08/SCMakesLogoGreyRed-150x150.png</url>
+	<title>Home &#8211; SC Makes</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Ride On, UGA!</title>
+		<link>/projects/engineering/ride-on-uga/</link>
+		
+		<dc:creator><![CDATA[Sidharth Chaudhary]]></dc:creator>
+		<pubDate>Fri, 25 Jul 2025 01:33:38 +0000</pubDate>
+				<category><![CDATA[Engineering]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[HTML]]></category>
+		<category><![CDATA[JS]]></category>
+		<category><![CDATA[Motorcycles]]></category>
+		<category><![CDATA[Open-Sourced]]></category>
+		<guid isPermaLink="false">/?p=123</guid>
+
+					<description><![CDATA[<p>I&#8217;m excited to announce the launch of the new&#160;University of Georgia Motorcycle Club&#160;website! As a proud alumnus and former member, I had a blast building this site to give back to a community that means a lot to me. Built with HTML, CSS, and JavaScript, the site is a central hub for all things related [&#8230;]</p>
+<p>The post <a href="/projects/engineering/ride-on-uga/">Ride On, UGA!</a> appeared first on <a href="/">SC Makes</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>I&#8217;m excited to announce the launch of the new&nbsp;<strong>University of Georgia Motorcycle Club</strong>&nbsp;website! As a proud alumnus and former member, I had a blast building this site to give back to a community that means a lot to me. Built with HTML, CSS, and JavaScript, the site is a central hub for all things related to the club, making it easier than ever for riders to connect and get involved.</p>
+
+
+
+<span id="more-123"></span>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 class="wp-block-heading">A Hub for All Riders</h2>
+
+
+
+<p>The new site is designed to be as bold and adventurous as the club itself. You can find everything you need to know, from the club&#8217;s mission of promoting safe riding to a gallery of our best adventures on the road.</p>
+
+
+
+<p>I&#8217;ve made it super simple to join the community. Whether you&#8217;re a student, an alum, or just a motorcycle enthusiast, you can easily find links to the club&#8217;s&nbsp;<strong>Instagram</strong>&nbsp;and&nbsp;<strong>GroupMe</strong>&nbsp;to stay updated on all rides and events.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 class="wp-block-heading">A Little Surprise</h2>
+
+
+
+<p>As a fun little tribute to the club, I&#8217;ve hidden a small easter egg on the website. I&#8217;d love for you to explore the site and see if you can find it. </p>
+
+
+
+<details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow"><summary>Hint</summary>
+<p>The easter egg is hidden in plain sight, somewhere in the footer. Try interacting with a certain part of the text down there—you might be surprised by what you find.</p>
+</details>
+
+
+
+<p>I hope this new site helps grow the UGA Motorcycle Club. It was a blast working on it, and I can&#8217;t wait to see what adventures the club gets up to next.</p>
+
+
+
+<div style="height:25px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-buttons alignwide is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-a89b3969 wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link has-text-align-center wp-element-button" href="https://ugamoto.github.io/" target="_blank" rel="noreferrer noopener">Visit the new website</a></div>
+
+
+
+<div class="wp-block-button"><a class="wp-block-button__link has-text-align-center wp-element-button" href="https://groupme.com/join_group/85757641/ky1zSb6n" target="_blank" rel="noreferrer noopener">Join the Community</a></div>
+
+
+
+<div class="wp-block-button"><a class="wp-block-button__link has-text-align-center wp-element-button" href="https://www.instagram.com/motorcycleclubofuga" target="_blank" rel="noreferrer noopener">Follow on Instagram</a></div>
+</div>
+
+
+
+<p></p>
+<p>The post <a href="/projects/engineering/ride-on-uga/">Ride On, UGA!</a> appeared first on <a href="/">SC Makes</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

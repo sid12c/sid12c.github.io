@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Home &#8211; SC Makes</title>
+	<atom:link href="/tag/raspberry-pi-4/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Mon, 08 Sep 2025 23:00:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2025/08/SCMakesLogoGreyRed-150x150.png</url>
+	<title>Home &#8211; SC Makes</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>My 3D Printing Adventure Begins</title>
+		<link>/blog/my-3d-printing-adventure-begins/</link>
+		
+		<dc:creator><![CDATA[Sidharth Chaudhary]]></dc:creator>
+		<pubDate>Fri, 05 Sep 2025 00:45:51 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[3D Printer]]></category>
+		<category><![CDATA[Bambu Labs]]></category>
+		<category><![CDATA[CAD]]></category>
+		<category><![CDATA[Fusion 360]]></category>
+		<category><![CDATA[Raspberry Pi 4]]></category>
+		<category><![CDATA[X1C]]></category>
+		<guid isPermaLink="false">/?p=212</guid>
+
+					<description><![CDATA[<p>After years of admiring from a distance, I&#8217;ve finally taken the plunge into the world of 3D printing, and what a world it is! My journey begins with the highly-acclaimed Bambu Labs X1 Carbon, a machine that promises speed, multi-color printing, and a level of precision that feels almost like magic. The future of making [&#8230;]</p>
+<p>The post <a href="/blog/my-3d-printing-adventure-begins/">My 3D Printing Adventure Begins</a> appeared first on <a href="/">SC Makes</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<p>After years of admiring from a distance, I&#8217;ve finally taken the plunge into the world of 3D printing, and what a world it is! My journey begins with the highly-acclaimed Bambu Labs X1 Carbon, a machine that promises speed, multi-color printing, and a level of precision that feels almost like magic. The future of making is here, and I&#8217;m thrilled to be a part of it. All of these initial prints were made using the Bambu Labs PLA that came with the printer, and the results have been incredible. The potential feels endless, and the only limit is my own imagination.</p>
+</div>
+</div>
+
+
+
+<span id="more-212"></span>
+
+
+
+<div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<p>To get started, I tackled the three prints every new maker needs to experience.</p>
+</div>
+</div>
+
+
+
+<div style="height:25px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading alignwide">The Benchy: A Rite of Passage</h2>
+
+
+
+<div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<p>My very first print was, of course, a Benchy. For those unfamiliar, a Benchy is a small model boat designed specifically to test the capabilities and calibration of a 3D printer. It has tiny details, overhangs, and complex curves that push the machine to its limits. Seeing the X1C handle this test with ease was an incredible moment. It’s the official welcoming ceremony into the community, and my Benchy came out looking fantastic.</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="2560" height="2560" data-id="215" src="/wp-content/uploads/2025/09/IMG_4043-scaled.jpg" alt="" class="wp-image-215" srcset="/wp-content/uploads/2025/09/IMG_4043-scaled.jpg 2560w, /wp-content/uploads/2025/09/IMG_4043-300x300.jpg 300w, /wp-content/uploads/2025/09/IMG_4043-1024x1024.jpg 1024w, /wp-content/uploads/2025/09/IMG_4043-150x150.jpg 150w, /wp-content/uploads/2025/09/IMG_4043-768x768.jpg 768w, /wp-content/uploads/2025/09/IMG_4043-1536x1536.jpg 1536w, /wp-content/uploads/2025/09/IMG_4043-2048x2048.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" data-id="214" src="/wp-content/uploads/2025/09/IMG_4044-1024x1024.jpg" alt="" class="wp-image-214" srcset="/wp-content/uploads/2025/09/IMG_4044-1024x1024.jpg 1024w, /wp-content/uploads/2025/09/IMG_4044-300x300.jpg 300w, /wp-content/uploads/2025/09/IMG_4044-150x150.jpg 150w, /wp-content/uploads/2025/09/IMG_4044-768x768.jpg 768w, /wp-content/uploads/2025/09/IMG_4044-1536x1536.jpg 1536w, /wp-content/uploads/2025/09/IMG_4044-2048x2048.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+</figure>
+</div>
+</div>
+
+
+
+<div style="height:25px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading alignwide">Practicality First: A Raspberry Pi Case</h2>
+
+
+
+<div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" data-id="217" src="/wp-content/uploads/2025/09/IMG_4045-1024x1024.jpg" alt="" class="wp-image-217" srcset="/wp-content/uploads/2025/09/IMG_4045-1024x1024.jpg 1024w, /wp-content/uploads/2025/09/IMG_4045-300x300.jpg 300w, /wp-content/uploads/2025/09/IMG_4045-150x150.jpg 150w, /wp-content/uploads/2025/09/IMG_4045-768x768.jpg 768w, /wp-content/uploads/2025/09/IMG_4045-1536x1536.jpg 1536w, /wp-content/uploads/2025/09/IMG_4045-2048x2048.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="1024" data-id="216" src="/wp-content/uploads/2025/09/IMG_4046-1024x1024.jpg" alt="" class="wp-image-216" srcset="/wp-content/uploads/2025/09/IMG_4046-1024x1024.jpg 1024w, /wp-content/uploads/2025/09/IMG_4046-300x300.jpg 300w, /wp-content/uploads/2025/09/IMG_4046-150x150.jpg 150w, /wp-content/uploads/2025/09/IMG_4046-768x768.jpg 768w, /wp-content/uploads/2025/09/IMG_4046-1536x1536.jpg 1536w, /wp-content/uploads/2025/09/IMG_4046-2048x2048.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+</figure>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="3D Prints - Time-lapse - Raspberry Pi 4 Case" width="500" height="375" src="https://www.youtube.com/embed/CUay1V-7_JM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<p>My second project was a bit more practical, taking me from a beginner to a designer. I&#8217;ve been working on a Raspberry Pi 4 project and needed a case that was both protective and functional. Instead of simply downloading a pre-made file, I decided to take on the challenge of designing my own. I used Fusion 360, a powerful CAD software, to model the case from scratch, meticulously measuring the Raspberry Pi to ensure a perfect fit. I made sure to include custom cutouts for easy access to the GPIO pins and to allow for proper airflow to the heatsinks. I even raised the board inside the bottom part for proper airflow around and below the board. Finally, I added an embedded label directly into the top cover for a clean, professional finish.</p>
+
+
+
+<p>Once the design was complete, the next step was to get the model ready for the printer. I exported the file from Fusion 360 as a 3MF, which is often a better format for preserving model details than a traditional STL. From there, I imported it into Bambu Studio, the slicing software for my printer. This is where I truly felt the power of the X1 Carbon&#8217;s ecosystem. I discovered the time-lapse feature, which uses the built-in camera to automatically capture the entire printing process. The ability to design and produce a perfectly tailored solution for my electronics project—and record the entire process—is exactly why I got into this hobby.</p>
+</div>
+</div>
+
+
+
+<div style="height:25px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading alignwide">A Blast from the Past: The Ocarina</h2>
+
+
+
+<div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<p>For my third print, I wanted to do something special that combined my love for technology with my passion for video games. I chose to print a functional ocarina from one of my all-time favorite games,&nbsp;<em>The Legend of Zelda</em>. Finding the right model was key, as it needed to be designed with a precisely calibrated, hollow chamber for the sound to work correctly. The intricate shape and hollow chamber required an incredible level of accuracy from the printer. The Bambu Labs X1 Carbon delivered perfectly, its precision critical to maintaining the correct internal dimensions for proper tuning. A true test of the machine&#8217;s capabilities was its ability to print the hollow interior without any supports, which would have been impossible to remove. This was a testament to the printer&#8217;s excellent bridging and overhang performance.</p>
+
+
+
+<p>Another significant challenge was the print&#8217;s form factor—it&#8217;s tall and narrow. This makes it prone to detaching from the build plate mid-print. Thankfully, the printer&#8217;s textured PEI plate provided excellent adhesion. The slightly rough surface gripped the plastic firmly, ensuring the ocarina remained perfectly stable and upright from the first layer to the last. Watching the nozzle delicately build the thin walls of the instrument layer by layer, knowing that any small error could ruin the acoustics or cause a print failure, was truly mesmerizing. It’s not just a cool piece of decor; it’s a fully playable instrument that brings a piece of my favorite game into the real world. This print perfectly encapsulated the blend of technology, art, and nostalgia that makes 3D printing so exciting.</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-3 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="1024" data-id="218" src="/wp-content/uploads/2025/09/IMG_4047-1024x1024.jpg" alt="" class="wp-image-218" srcset="/wp-content/uploads/2025/09/IMG_4047-1024x1024.jpg 1024w, /wp-content/uploads/2025/09/IMG_4047-300x300.jpg 300w, /wp-content/uploads/2025/09/IMG_4047-150x150.jpg 150w, /wp-content/uploads/2025/09/IMG_4047-768x768.jpg 768w, /wp-content/uploads/2025/09/IMG_4047-1536x1536.jpg 1536w, /wp-content/uploads/2025/09/IMG_4047-2048x2048.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="1024" data-id="219" src="/wp-content/uploads/2025/09/IMG_4048-1024x1024.jpg" alt="" class="wp-image-219" srcset="/wp-content/uploads/2025/09/IMG_4048-1024x1024.jpg 1024w, /wp-content/uploads/2025/09/IMG_4048-300x300.jpg 300w, /wp-content/uploads/2025/09/IMG_4048-150x150.jpg 150w, /wp-content/uploads/2025/09/IMG_4048-768x768.jpg 768w, /wp-content/uploads/2025/09/IMG_4048-1536x1536.jpg 1536w, /wp-content/uploads/2025/09/IMG_4048-2048x2048.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+</figure>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="3D Prints - Time-lapse - Ocarina" width="500" height="375" src="https://www.youtube.com/embed/_t2hFvDcoVI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+</div>
+</div>
+
+
+
+<div style="height:25px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<p>I’m only just getting started on this journey, and I’m already brainstorming my next projects. Whether it’s practical tools for my workshop or fun creations inspired by my hobbies, I can&#8217;t wait to see what this machine can do. Stay tuned for more updates!</p>
+</div>
+</div>
+
+
+
+<p></p>
+<p>The post <a href="/blog/my-3d-printing-adventure-begins/">My 3D Printing Adventure Begins</a> appeared first on <a href="/">SC Makes</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Signal Generator</title>
+		<link>/projects/engineering/signal-generator/</link>
+		
+		<dc:creator><![CDATA[Sidharth Chaudhary]]></dc:creator>
+		<pubDate>Thu, 20 Feb 2025 07:43:45 +0000</pubDate>
+				<category><![CDATA[Engineering]]></category>
+		<category><![CDATA[Embedded Systems]]></category>
+		<category><![CDATA[Open-Sourced]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[Raspberry Pi 4]]></category>
+		<guid isPermaLink="false">/?p=88</guid>
+
+					<description><![CDATA[<p>I&#8217;m excited to share a new Python tool I&#8217;ve developed,&#160;SignalGenerator. This script is specifically designed with embedded systems in mind, providing a simple yet powerful way to generate and test audio waveforms. While it works on any system with PyAudio, its real value shines when used with hardware like the&#160;Raspberry Pi 4&#8217;s onboard digital-to-analog converter [&#8230;]</p>
+<p>The post <a href="/projects/engineering/signal-generator/">Signal Generator</a> appeared first on <a href="/">SC Makes</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+<details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow"><summary>Summary</summary>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p class="has-medium-font-size">This Python script generates and plays a waveform (sine or square) of a specified frequency, duration, and amplitude using the&nbsp;<code>pyaudio</code>&nbsp;and&nbsp;<code>numpy</code>&nbsp;libraries.</p>
+</blockquote>
+</details>
+</div>
+
+
+
+<p>I&#8217;m excited to share a new Python tool I&#8217;ve developed,&nbsp;<strong>SignalGenerator</strong>. This script is specifically designed with embedded systems in mind, providing a simple yet powerful way to generate and test audio waveforms. While it works on any system with PyAudio, its real value shines when used with hardware like the&nbsp;<strong>Raspberry Pi 4&#8217;s onboard digital-to-analog converter (DAC)</strong>&nbsp;for quick and easy signal testing.</p>
+
+
+
+<span id="more-88"></span>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 class="wp-block-heading">Why SignalGenerator for Embedded Systems?</h2>
+
+
+
+<p>When working with embedded systems, you often need to generate test signals to verify hardware functionality, troubleshoot audio circuits, or calibrate sensors. Manually setting up a signal generator can be cumbersome. SignalGenerator simplifies this process by allowing you to create and output precise sine, square, or frequency sweep signals directly from the command line, turning your Raspberry Pi into a versatile signal source. This is particularly useful for engineers and hobbyists prototyping audio applications or testing the performance of their DAC and related circuitry.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 class="wp-block-heading">Features and Usage</h2>
+
+
+
+<p>SignalGenerator is built on Python and uses&nbsp;<code>NumPy</code>&nbsp;for waveform generation and&nbsp;<code>PyAudio</code>&nbsp;for output. It&#8217;s lightweight and easy to install.</p>
+
+
+
+<p>To get started, simply install the required libraries:</p>
+
+
+
+<pre class="wp-block-code" style="line-height:0"><code><code>pip install numpy pyaudio argparse</code></code></pre>
+
+
+
+<p>The script&#8217;s command-line interface makes it easy to specify the exact signal you need.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Key Features:</strong></h3>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Waveform Types:</strong>&nbsp;Generate&nbsp;<strong>sine waves</strong>,&nbsp;<strong>square waves</strong>, or a&nbsp;<strong>frequency sweep</strong>.</li>
+
+
+
+<li><strong>Customizable Parameters:</strong>&nbsp;Easily set the&nbsp;<strong>duration</strong>,&nbsp;<strong>frequency</strong>, and&nbsp;<strong>amplitude</strong>&nbsp;of your signal.</li>
+
+
+
+<li><strong>Frequency Sweep Mode:</strong>&nbsp;Test a range of frequencies to analyze the frequency response of your hardware. This mode is a game-changer for evaluating the performance of filters, amplifiers, or the DAC itself across different frequencies.</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading"><strong>Example Usage on a Raspberry Pi:</strong></h3>
+
+
+
+<ul class="wp-block-list">
+<li>Test your DAC with a 440 Hz sine wave:&nbsp;</li>
+</ul>
+
+
+
+<pre class="wp-block-code" style="line-height:0"><code><code>python siggen.py sine -f 440</code></code></pre>
+
+
+
+<ul class="wp-block-list">
+<li>Check a high-frequency filter&#8217;s performance with a 10-second sweep:&nbsp;</li>
+</ul>
+
+
+
+<pre class="wp-block-code" style="line-height:0"><code><code>python siggen.py sweep -f 1000 -e 20000 -s 500</code></code></pre>
+
+
+
+<ul class="wp-block-list">
+<li>Send a 1 kHz square wave to a connected circuit:&nbsp;</li>
+</ul>
+
+
+
+<pre class="wp-block-code" style="line-height:0"><code><code>python siggen.py square -f 1000</code></code></pre>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h3 class="wp-block-heading">A Note on the Raspberry Pi DAC</h3>
+
+
+
+<p>The Raspberry Pi 4 has a built-in DAC that provides audio output through its 3.5mm jack. This DAC can be used as the output &#8220;sink&#8221; for SignalGenerator. By connecting a simple audio breakout cable to the Pi&#8217;s audio jack, you can easily probe the generated signal with an oscilloscope or feed it into another circuit. This direct, no-hassle approach makes SignalGenerator an invaluable tool for on-the-fly testing and development.</p>
+
+
+
+<p>I encourage you to try out SignalGenerator on your next embedded systems project. You can find the full details and source code on the <strong>GitHub repository</strong>. I hope this tool helps streamline your workflow and makes testing your hardware a breeze!</p>
+
+
+
+<div style="height:25px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-a89b3969 wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://github.com/sid12c/SignalGenerator" target="_blank" rel="noreferrer noopener">View on GitHub</a></div>
+</div>
+
+
+
+<div style="height:25px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">Samples</h2>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-4 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure data-wp-context="{&quot;imageId&quot;:&quot;68c1e147ee8ca&quot;}" data-wp-interactive="core/image" class="wp-block-image size-full is-style-default wp-lightbox-container"><img loading="lazy" decoding="async" width="1024" height="600" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on-async--click="actions.showLightbox" data-wp-on-async--load="callbacks.setButtonStyles" data-wp-on-async-window--resize="callbacks.setButtonStyles" data-id="89" src="/wp-content/uploads/2025/08/RigolDS1.png" alt="Sine wave generated waveform" class="wp-image-89" srcset="/wp-content/uploads/2025/08/RigolDS1.png 1024w, /wp-content/uploads/2025/08/RigolDS1-300x176.png 300w, /wp-content/uploads/2025/08/RigolDS1-768x450.png 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><button
+			class="lightbox-trigger"
+			type="button"
+			aria-haspopup="dialog"
+			aria-label="Enlarge"
+			data-wp-init="callbacks.initTriggerButton"
+			data-wp-on-async--click="actions.showLightbox"
+			data-wp-style--right="state.imageButtonRight"
+			data-wp-style--top="state.imageButtonTop"
+		>
+			<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="none" viewBox="0 0 12 12">
+				<path fill="#fff" d="M2 0a2 2 0 0 0-2 2v2h1.5V2a.5.5 0 0 1 .5-.5h2V0H2Zm2 10.5H2a.5.5 0 0 1-.5-.5V8H0v2a2 2 0 0 0 2 2h2v-1.5ZM8 12v-1.5h2a.5.5 0 0 0 .5-.5V8H12v2a2 2 0 0 1-2 2H8Zm2-12a2 2 0 0 1 2 2v2h-1.5V2a.5.5 0 0 0-.5-.5H8V0h2Z" />
+			</svg>
+		</button><figcaption class="wp-element-caption">Sine wave generated waveform</figcaption></figure>
+
+
+
+<figure data-wp-context="{&quot;imageId&quot;:&quot;68c1e147eeb02&quot;}" data-wp-interactive="core/image" class="wp-block-image size-full wp-lightbox-container"><img loading="lazy" decoding="async" width="1024" height="600" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on-async--click="actions.showLightbox" data-wp-on-async--load="callbacks.setButtonStyles" data-wp-on-async-window--resize="callbacks.setButtonStyles" data-id="90" src="/wp-content/uploads/2025/08/RigolDS3.png" alt="Square wave generated waveform" class="wp-image-90" srcset="/wp-content/uploads/2025/08/RigolDS3.png 1024w, /wp-content/uploads/2025/08/RigolDS3-300x176.png 300w, /wp-content/uploads/2025/08/RigolDS3-768x450.png 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><button
+			class="lightbox-trigger"
+			type="button"
+			aria-haspopup="dialog"
+			aria-label="Enlarge"
+			data-wp-init="callbacks.initTriggerButton"
+			data-wp-on-async--click="actions.showLightbox"
+			data-wp-style--right="state.imageButtonRight"
+			data-wp-style--top="state.imageButtonTop"
+		>
+			<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="none" viewBox="0 0 12 12">
+				<path fill="#fff" d="M2 0a2 2 0 0 0-2 2v2h1.5V2a.5.5 0 0 1 .5-.5h2V0H2Zm2 10.5H2a.5.5 0 0 1-.5-.5V8H0v2a2 2 0 0 0 2 2h2v-1.5ZM8 12v-1.5h2a.5.5 0 0 0 .5-.5V8H12v2a2 2 0 0 1-2 2H8Zm2-12a2 2 0 0 1 2 2v2h-1.5V2a.5.5 0 0 0-.5-.5H8V0h2Z" />
+			</svg>
+		</button><figcaption class="wp-element-caption">Square wave generated waveform</figcaption></figure>
+</figure>
+
+
+
+<figure class="wp-block-video"><video controls muted src="/wp-content/uploads/2025/08/IMG_3885-2.mov"></video><figcaption class="wp-element-caption">Analog Signal Sweep </figcaption></figure>
+
+
+
+<p></p>
+
+
+
+<p></p>
+<p>The post <a href="/projects/engineering/signal-generator/">Signal Generator</a> appeared first on <a href="/">SC Makes</a>.</p>
+]]></content:encoded>
+					
+		
+		<enclosure url="/wp-content/uploads/2025/08/IMG_3885-2.mov" length="81976746" type="video/quicktime" />
+
+			</item>
+	</channel>
+</rss>

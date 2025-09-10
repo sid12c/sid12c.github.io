@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Home &#8211; SC Makes</title>
+	<atom:link href="/tag/x1c/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Mon, 08 Sep 2025 23:00:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2025/08/SCMakesLogoGreyRed-150x150.png</url>
+	<title>Home &#8211; SC Makes</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>My 3D Printing Adventure Begins</title>
+		<link>/blog/my-3d-printing-adventure-begins/</link>
+		
+		<dc:creator><![CDATA[Sidharth Chaudhary]]></dc:creator>
+		<pubDate>Fri, 05 Sep 2025 00:45:51 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[3D Printer]]></category>
+		<category><![CDATA[Bambu Labs]]></category>
+		<category><![CDATA[CAD]]></category>
+		<category><![CDATA[Fusion 360]]></category>
+		<category><![CDATA[Raspberry Pi 4]]></category>
+		<category><![CDATA[X1C]]></category>
+		<guid isPermaLink="false">/?p=212</guid>
+
+					<description><![CDATA[<p>After years of admiring from a distance, I&#8217;ve finally taken the plunge into the world of 3D printing, and what a world it is! My journey begins with the highly-acclaimed Bambu Labs X1 Carbon, a machine that promises speed, multi-color printing, and a level of precision that feels almost like magic. The future of making [&#8230;]</p>
+<p>The post <a href="/blog/my-3d-printing-adventure-begins/">My 3D Printing Adventure Begins</a> appeared first on <a href="/">SC Makes</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<p>After years of admiring from a distance, I&#8217;ve finally taken the plunge into the world of 3D printing, and what a world it is! My journey begins with the highly-acclaimed Bambu Labs X1 Carbon, a machine that promises speed, multi-color printing, and a level of precision that feels almost like magic. The future of making is here, and I&#8217;m thrilled to be a part of it. All of these initial prints were made using the Bambu Labs PLA that came with the printer, and the results have been incredible. The potential feels endless, and the only limit is my own imagination.</p>
+</div>
+</div>
+
+
+
+<span id="more-212"></span>
+
+
+
+<div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<p>To get started, I tackled the three prints every new maker needs to experience.</p>
+</div>
+</div>
+
+
+
+<div style="height:25px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading alignwide">The Benchy: A Rite of Passage</h2>
+
+
+
+<div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<p>My very first print was, of course, a Benchy. For those unfamiliar, a Benchy is a small model boat designed specifically to test the capabilities and calibration of a 3D printer. It has tiny details, overhangs, and complex curves that push the machine to its limits. Seeing the X1C handle this test with ease was an incredible moment. It’s the official welcoming ceremony into the community, and my Benchy came out looking fantastic.</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="2560" height="2560" data-id="215" src="/wp-content/uploads/2025/09/IMG_4043-scaled.jpg" alt="" class="wp-image-215" srcset="/wp-content/uploads/2025/09/IMG_4043-scaled.jpg 2560w, /wp-content/uploads/2025/09/IMG_4043-300x300.jpg 300w, /wp-content/uploads/2025/09/IMG_4043-1024x1024.jpg 1024w, /wp-content/uploads/2025/09/IMG_4043-150x150.jpg 150w, /wp-content/uploads/2025/09/IMG_4043-768x768.jpg 768w, /wp-content/uploads/2025/09/IMG_4043-1536x1536.jpg 1536w, /wp-content/uploads/2025/09/IMG_4043-2048x2048.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" data-id="214" src="/wp-content/uploads/2025/09/IMG_4044-1024x1024.jpg" alt="" class="wp-image-214" srcset="/wp-content/uploads/2025/09/IMG_4044-1024x1024.jpg 1024w, /wp-content/uploads/2025/09/IMG_4044-300x300.jpg 300w, /wp-content/uploads/2025/09/IMG_4044-150x150.jpg 150w, /wp-content/uploads/2025/09/IMG_4044-768x768.jpg 768w, /wp-content/uploads/2025/09/IMG_4044-1536x1536.jpg 1536w, /wp-content/uploads/2025/09/IMG_4044-2048x2048.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+</figure>
+</div>
+</div>
+
+
+
+<div style="height:25px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading alignwide">Practicality First: A Raspberry Pi Case</h2>
+
+
+
+<div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" data-id="217" src="/wp-content/uploads/2025/09/IMG_4045-1024x1024.jpg" alt="" class="wp-image-217" srcset="/wp-content/uploads/2025/09/IMG_4045-1024x1024.jpg 1024w, /wp-content/uploads/2025/09/IMG_4045-300x300.jpg 300w, /wp-content/uploads/2025/09/IMG_4045-150x150.jpg 150w, /wp-content/uploads/2025/09/IMG_4045-768x768.jpg 768w, /wp-content/uploads/2025/09/IMG_4045-1536x1536.jpg 1536w, /wp-content/uploads/2025/09/IMG_4045-2048x2048.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="1024" data-id="216" src="/wp-content/uploads/2025/09/IMG_4046-1024x1024.jpg" alt="" class="wp-image-216" srcset="/wp-content/uploads/2025/09/IMG_4046-1024x1024.jpg 1024w, /wp-content/uploads/2025/09/IMG_4046-300x300.jpg 300w, /wp-content/uploads/2025/09/IMG_4046-150x150.jpg 150w, /wp-content/uploads/2025/09/IMG_4046-768x768.jpg 768w, /wp-content/uploads/2025/09/IMG_4046-1536x1536.jpg 1536w, /wp-content/uploads/2025/09/IMG_4046-2048x2048.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+</figure>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="3D Prints - Time-lapse - Raspberry Pi 4 Case" width="500" height="375" src="https://www.youtube.com/embed/CUay1V-7_JM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<p>My second project was a bit more practical, taking me from a beginner to a designer. I&#8217;ve been working on a Raspberry Pi 4 project and needed a case that was both protective and functional. Instead of simply downloading a pre-made file, I decided to take on the challenge of designing my own. I used Fusion 360, a powerful CAD software, to model the case from scratch, meticulously measuring the Raspberry Pi to ensure a perfect fit. I made sure to include custom cutouts for easy access to the GPIO pins and to allow for proper airflow to the heatsinks. I even raised the board inside the bottom part for proper airflow around and below the board. Finally, I added an embedded label directly into the top cover for a clean, professional finish.</p>
+
+
+
+<p>Once the design was complete, the next step was to get the model ready for the printer. I exported the file from Fusion 360 as a 3MF, which is often a better format for preserving model details than a traditional STL. From there, I imported it into Bambu Studio, the slicing software for my printer. This is where I truly felt the power of the X1 Carbon&#8217;s ecosystem. I discovered the time-lapse feature, which uses the built-in camera to automatically capture the entire printing process. The ability to design and produce a perfectly tailored solution for my electronics project—and record the entire process—is exactly why I got into this hobby.</p>
+</div>
+</div>
+
+
+
+<div style="height:25px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading alignwide">A Blast from the Past: The Ocarina</h2>
+
+
+
+<div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<p>For my third print, I wanted to do something special that combined my love for technology with my passion for video games. I chose to print a functional ocarina from one of my all-time favorite games,&nbsp;<em>The Legend of Zelda</em>. Finding the right model was key, as it needed to be designed with a precisely calibrated, hollow chamber for the sound to work correctly. The intricate shape and hollow chamber required an incredible level of accuracy from the printer. The Bambu Labs X1 Carbon delivered perfectly, its precision critical to maintaining the correct internal dimensions for proper tuning. A true test of the machine&#8217;s capabilities was its ability to print the hollow interior without any supports, which would have been impossible to remove. This was a testament to the printer&#8217;s excellent bridging and overhang performance.</p>
+
+
+
+<p>Another significant challenge was the print&#8217;s form factor—it&#8217;s tall and narrow. This makes it prone to detaching from the build plate mid-print. Thankfully, the printer&#8217;s textured PEI plate provided excellent adhesion. The slightly rough surface gripped the plastic firmly, ensuring the ocarina remained perfectly stable and upright from the first layer to the last. Watching the nozzle delicately build the thin walls of the instrument layer by layer, knowing that any small error could ruin the acoustics or cause a print failure, was truly mesmerizing. It’s not just a cool piece of decor; it’s a fully playable instrument that brings a piece of my favorite game into the real world. This print perfectly encapsulated the blend of technology, art, and nostalgia that makes 3D printing so exciting.</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-3 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="1024" data-id="218" src="/wp-content/uploads/2025/09/IMG_4047-1024x1024.jpg" alt="" class="wp-image-218" srcset="/wp-content/uploads/2025/09/IMG_4047-1024x1024.jpg 1024w, /wp-content/uploads/2025/09/IMG_4047-300x300.jpg 300w, /wp-content/uploads/2025/09/IMG_4047-150x150.jpg 150w, /wp-content/uploads/2025/09/IMG_4047-768x768.jpg 768w, /wp-content/uploads/2025/09/IMG_4047-1536x1536.jpg 1536w, /wp-content/uploads/2025/09/IMG_4047-2048x2048.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="1024" data-id="219" src="/wp-content/uploads/2025/09/IMG_4048-1024x1024.jpg" alt="" class="wp-image-219" srcset="/wp-content/uploads/2025/09/IMG_4048-1024x1024.jpg 1024w, /wp-content/uploads/2025/09/IMG_4048-300x300.jpg 300w, /wp-content/uploads/2025/09/IMG_4048-150x150.jpg 150w, /wp-content/uploads/2025/09/IMG_4048-768x768.jpg 768w, /wp-content/uploads/2025/09/IMG_4048-1536x1536.jpg 1536w, /wp-content/uploads/2025/09/IMG_4048-2048x2048.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+</figure>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="3D Prints - Time-lapse - Ocarina" width="500" height="375" src="https://www.youtube.com/embed/_t2hFvDcoVI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+</div>
+</div>
+
+
+
+<div style="height:25px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<p>I’m only just getting started on this journey, and I’m already brainstorming my next projects. Whether it’s practical tools for my workshop or fun creations inspired by my hobbies, I can&#8217;t wait to see what this machine can do. Stay tuned for more updates!</p>
+</div>
+</div>
+
+
+
+<p></p>
+<p>The post <a href="/blog/my-3d-printing-adventure-begins/">My 3D Printing Adventure Begins</a> appeared first on <a href="/">SC Makes</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
