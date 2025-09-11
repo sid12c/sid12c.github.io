@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Home &#8211; SC Makes</title>
-	<atom:link href="/author/wpra-source-author-site-1/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://www.scmakes.com/author/wpra-source-author-site-1/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.scmakes.com/</link>
 	<description></description>
 	<lastBuildDate>Wed, 10 Sep 2025 03:40:28 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=6.8.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2025/08/SCMakesLogoGreyRed-150x150.png</url>
+	<url>https://www.scmakes.com/wp-content/uploads/2025/08/SCMakesLogoGreyRed-150x150.png</url>
 	<title>Home &#8211; SC Makes</title>
-	<link>/</link>
+	<link>https://www.scmakes.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 

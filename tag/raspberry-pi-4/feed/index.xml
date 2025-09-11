@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Home &#8211; SC Makes</title>
-	<atom:link href="/tag/raspberry-pi-4/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://www.scmakes.com/tag/raspberry-pi-4/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.scmakes.com/</link>
 	<description></description>
 	<lastBuildDate>Mon, 08 Sep 2025 23:00:53 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.8.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2025/08/SCMakesLogoGreyRed-150x150.png</url>
+	<url>https://www.scmakes.com/wp-content/uploads/2025/08/SCMakesLogoGreyRed-150x150.png</url>
 	<title>Home &#8211; SC Makes</title>
-	<link>/</link>
+	<link>https://www.scmakes.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>My 3D Printing Adventure Begins</title>
-		<link>/blog/my-3d-printing-adventure-begins/</link>
+		<link>https://www.scmakes.com/blog/my-3d-printing-adventure-begins/</link>
 		
 		<dc:creator><![CDATA[Sidharth Chaudhary]]></dc:creator>
 		<pubDate>Fri, 05 Sep 2025 00:45:51 +0000</pubDate>
@@ -40,10 +40,10 @@
 		<category><![CDATA[Fusion 360]]></category>
 		<category><![CDATA[Raspberry Pi 4]]></category>
 		<category><![CDATA[X1C]]></category>
-		<guid isPermaLink="false">/?p=212</guid>
+		<guid isPermaLink="false">https://www.scmakes.com/?p=212</guid>
 
 					<description><![CDATA[<p>After years of admiring from a distance, I&#8217;ve finally taken the plunge into the world of 3D printing, and what a world it is! My journey begins with the highly-acclaimed Bambu Labs X1 Carbon, a machine that promises speed, multi-color printing, and a level of precision that feels almost like magic. The future of making [&#8230;]</p>
-<p>The post <a href="/blog/my-3d-printing-adventure-begins/">My 3D Printing Adventure Begins</a> appeared first on <a href="/">SC Makes</a>.</p>
+<p>The post <a href="https://www.scmakes.com/blog/my-3d-printing-adventure-begins/">My 3D Printing Adventure Begins</a> appeared first on <a href="https://www.scmakes.com/">SC Makes</a>.</p>
 ]]></description>
 		
 		
@@ -51,7 +51,7 @@
 			</item>
 		<item>
 		<title>Signal Generator</title>
-		<link>/projects/engineering/signal-generator/</link>
+		<link>https://www.scmakes.com/projects/engineering/signal-generator/</link>
 		
 		<dc:creator><![CDATA[Sidharth Chaudhary]]></dc:creator>
 		<pubDate>Thu, 20 Feb 2025 07:43:45 +0000</pubDate>
@@ -60,14 +60,14 @@
 		<category><![CDATA[Open-Sourced]]></category>
 		<category><![CDATA[Python]]></category>
 		<category><![CDATA[Raspberry Pi 4]]></category>
-		<guid isPermaLink="false">/?p=88</guid>
+		<guid isPermaLink="false">https://www.scmakes.com/?p=88</guid>
 
 					<description><![CDATA[<p>I&#8217;m excited to share a new Python tool I&#8217;ve developed,&#160;SignalGenerator. This script is specifically designed with embedded systems in mind, providing a simple yet powerful way to generate and test audio waveforms. While it works on any system with PyAudio, its real value shines when used with hardware like the&#160;Raspberry Pi 4&#8217;s onboard digital-to-analog converter [&#8230;]</p>
-<p>The post <a href="/projects/engineering/signal-generator/">Signal Generator</a> appeared first on <a href="/">SC Makes</a>.</p>
+<p>The post <a href="https://www.scmakes.com/projects/engineering/signal-generator/">Signal Generator</a> appeared first on <a href="https://www.scmakes.com/">SC Makes</a>.</p>
 ]]></description>
 		
 		
-		<enclosure url="/wp-content/uploads/2025/08/IMG_3885-2.mov" length="81976746" type="video/quicktime" />
+		<enclosure url="https://www.scmakes.com/wp-content/uploads/2025/08/IMG_3885-2.mov" length="81976746" type="video/quicktime" />
 
 			</item>
 	</channel>

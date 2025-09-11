@@ -1,71 +1,71 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://www.scmakes.com/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/tag/3d-printer/</loc>
+		<loc>https://www.scmakes.com/tag/3d-printer/</loc>
 		<lastmod>2025-09-08T23:00:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/bambu-labs/</loc>
+		<loc>https://www.scmakes.com/tag/bambu-labs/</loc>
 		<lastmod>2025-09-08T23:00:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/cad/</loc>
+		<loc>https://www.scmakes.com/tag/cad/</loc>
 		<lastmod>2025-09-08T23:00:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/css/</loc>
+		<loc>https://www.scmakes.com/tag/css/</loc>
 		<lastmod>2025-09-08T22:18:18+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/embedded-systems/</loc>
+		<loc>https://www.scmakes.com/tag/embedded-systems/</loc>
 		<lastmod>2025-09-08T22:18:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/fusion-360/</loc>
+		<loc>https://www.scmakes.com/tag/fusion-360/</loc>
 		<lastmod>2025-09-08T23:00:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/git/</loc>
+		<loc>https://www.scmakes.com/tag/git/</loc>
 		<lastmod>2025-09-08T22:18:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/github/</loc>
+		<loc>https://www.scmakes.com/tag/github/</loc>
 		<lastmod>2025-09-08T22:18:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/html/</loc>
+		<loc>https://www.scmakes.com/tag/html/</loc>
 		<lastmod>2025-09-08T22:18:18+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/js/</loc>
+		<loc>https://www.scmakes.com/tag/js/</loc>
 		<lastmod>2025-09-08T22:18:18+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/markdown/</loc>
+		<loc>https://www.scmakes.com/tag/markdown/</loc>
 		<lastmod>2025-09-08T22:18:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/motorcycles/</loc>
+		<loc>https://www.scmakes.com/tag/motorcycles/</loc>
 		<lastmod>2025-09-08T22:18:18+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/open-sourced/</loc>
+		<loc>https://www.scmakes.com/tag/open-sourced/</loc>
 		<lastmod>2025-09-08T22:18:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/python/</loc>
+		<loc>https://www.scmakes.com/tag/python/</loc>
 		<lastmod>2025-09-08T22:18:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/raspberry-pi-4/</loc>
+		<loc>https://www.scmakes.com/tag/raspberry-pi-4/</loc>
 		<lastmod>2025-09-08T23:00:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/rust/</loc>
+		<loc>https://www.scmakes.com/tag/rust/</loc>
 		<lastmod>2025-09-08T22:18:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/x1c/</loc>
+		<loc>https://www.scmakes.com/tag/x1c/</loc>
 		<lastmod>2025-09-08T23:00:53+00:00</lastmod>
 	</url>
 </urlset>

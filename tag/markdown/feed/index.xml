@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Home &#8211; SC Makes</title>
-	<atom:link href="/tag/markdown/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://www.scmakes.com/tag/markdown/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.scmakes.com/</link>
 	<description></description>
 	<lastBuildDate>Mon, 08 Sep 2025 22:18:22 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.8.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2025/08/SCMakesLogoGreyRed-150x150.png</url>
+	<url>https://www.scmakes.com/wp-content/uploads/2025/08/SCMakesLogoGreyRed-150x150.png</url>
 	<title>Home &#8211; SC Makes</title>
-	<link>/</link>
+	<link>https://www.scmakes.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>MD Preview</title>
-		<link>/projects/engineering/md-preview/</link>
+		<link>https://www.scmakes.com/projects/engineering/md-preview/</link>
 		
 		<dc:creator><![CDATA[Sidharth Chaudhary]]></dc:creator>
 		<pubDate>Wed, 23 Jul 2025 08:41:51 +0000</pubDate>
@@ -37,10 +37,10 @@
 		<category><![CDATA[Markdown]]></category>
 		<category><![CDATA[Open-Sourced]]></category>
 		<category><![CDATA[Rust]]></category>
-		<guid isPermaLink="false">/?p=102</guid>
+		<guid isPermaLink="false">https://www.scmakes.com/?p=102</guid>
 
 					<description><![CDATA[<p>Tired of leaving your terminal to view a simple Markdown file? Meet&#160;md-preview, a powerful new command-line tool written in&#160;Rust&#160;that brings beautiful, formatted Markdown directly to your terminal screen. It&#8217;s designed to be fast, efficient, and highly readable, so you can focus on your work without context switching. Why&#160;md-preview? While many tools exist for viewing Markdown,&#160;md-preview&#160;is [&#8230;]</p>
-<p>The post <a href="/projects/engineering/md-preview/">MD Preview</a> appeared first on <a href="/">SC Makes</a>.</p>
+<p>The post <a href="https://www.scmakes.com/projects/engineering/md-preview/">MD Preview</a> appeared first on <a href="https://www.scmakes.com/">SC Makes</a>.</p>
 ]]></description>
 		
 		

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Home &#8211; SC Makes</title>
-	<atom:link href="/author/scmakes1/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://www.scmakes.com/author/scmakes1/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.scmakes.com/</link>
 	<description></description>
 	<lastBuildDate>Wed, 10 Sep 2025 01:53:07 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.8.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2025/08/SCMakesLogoGreyRed-150x150.png</url>
+	<url>https://www.scmakes.com/wp-content/uploads/2025/08/SCMakesLogoGreyRed-150x150.png</url>
 	<title>Home &#8211; SC Makes</title>
-	<link>/</link>
+	<link>https://www.scmakes.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>My 3D Printing Adventure Begins</title>
-		<link>/blog/my-3d-printing-adventure-begins/</link>
+		<link>https://www.scmakes.com/blog/my-3d-printing-adventure-begins/</link>
 		
 		<dc:creator><![CDATA[Sidharth Chaudhary]]></dc:creator>
 		<pubDate>Fri, 05 Sep 2025 00:45:51 +0000</pubDate>
@@ -40,10 +40,10 @@
 		<category><![CDATA[Fusion 360]]></category>
 		<category><![CDATA[Raspberry Pi 4]]></category>
 		<category><![CDATA[X1C]]></category>
-		<guid isPermaLink="false">/?p=212</guid>
+		<guid isPermaLink="false">https://www.scmakes.com/?p=212</guid>
 
 					<description><![CDATA[<p>After years of admiring from a distance, I&#8217;ve finally taken the plunge into the world of 3D printing, and what a world it is! My journey begins with the highly-acclaimed Bambu Labs X1 Carbon, a machine that promises speed, multi-color printing, and a level of precision that feels almost like magic. The future of making [&#8230;]</p>
-<p>The post <a href="/blog/my-3d-printing-adventure-begins/">My 3D Printing Adventure Begins</a> appeared first on <a href="/">SC Makes</a>.</p>
+<p>The post <a href="https://www.scmakes.com/blog/my-3d-printing-adventure-begins/">My 3D Printing Adventure Begins</a> appeared first on <a href="https://www.scmakes.com/">SC Makes</a>.</p>
 ]]></description>
 		
 		
@@ -51,17 +51,17 @@
 			</item>
 		<item>
 		<title>The GitHub Handbook</title>
-		<link>/projects/books/the-github-handbook/</link>
+		<link>https://www.scmakes.com/projects/books/the-github-handbook/</link>
 		
 		<dc:creator><![CDATA[Sidharth Chaudhary]]></dc:creator>
 		<pubDate>Tue, 26 Aug 2025 19:18:06 +0000</pubDate>
 				<category><![CDATA[Books]]></category>
 		<category><![CDATA[Git]]></category>
 		<category><![CDATA[GitHub]]></category>
-		<guid isPermaLink="false">/?p=153</guid>
+		<guid isPermaLink="false">https://www.scmakes.com/?p=153</guid>
 
 					<description><![CDATA[<p>Are you ready to revolutionize your approach to coding without getting bogged down in endless complexities? Whether you&#8217;re a budding developer, a seasoned freelancer, or anyone who works with code, understanding Git and GitHub is no longer optional – it&#8217;s essential. That&#8217;s why I&#8217;m thrilled to announce the release of my new book,&#160;&#8220;The GitHub Handbook&#8221;! [&#8230;]</p>
-<p>The post <a href="/projects/books/the-github-handbook/">The GitHub Handbook</a> appeared first on <a href="/">SC Makes</a>.</p>
+<p>The post <a href="https://www.scmakes.com/projects/books/the-github-handbook/">The GitHub Handbook</a> appeared first on <a href="https://www.scmakes.com/">SC Makes</a>.</p>
 ]]></description>
 		
 		
@@ -69,15 +69,15 @@
 			</item>
 		<item>
 		<title>Hello world!</title>
-		<link>/blog/hello-world/</link>
+		<link>https://www.scmakes.com/blog/hello-world/</link>
 		
 		<dc:creator><![CDATA[Sidharth Chaudhary]]></dc:creator>
 		<pubDate>Thu, 21 Aug 2025 17:54:45 +0000</pubDate>
 				<category><![CDATA[Blog]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">https://www.scmakes.com/?p=1</guid>
 
 					<description><![CDATA[<p>Well, hello there! If you&#8217;re reading this, you&#8217;ve officially stumbled upon the very first post of my brand-new personal website. And to that, I say: welcome! This has been a long time coming, and I&#8217;m incredibly excited to finally have a dedicated space to share my journey, thoughts, and creations with the world. Think of [&#8230;]</p>
-<p>The post <a href="/blog/hello-world/">Hello world!</a> appeared first on <a href="/">SC Makes</a>.</p>
+<p>The post <a href="https://www.scmakes.com/blog/hello-world/">Hello world!</a> appeared first on <a href="https://www.scmakes.com/">SC Makes</a>.</p>
 ]]></description>
 		
 		
@@ -85,7 +85,7 @@
 			</item>
 		<item>
 		<title>Ride On, UGA!</title>
-		<link>/projects/engineering/ride-on-uga/</link>
+		<link>https://www.scmakes.com/projects/engineering/ride-on-uga/</link>
 		
 		<dc:creator><![CDATA[Sidharth Chaudhary]]></dc:creator>
 		<pubDate>Fri, 25 Jul 2025 01:33:38 +0000</pubDate>
@@ -95,10 +95,10 @@
 		<category><![CDATA[JS]]></category>
 		<category><![CDATA[Motorcycles]]></category>
 		<category><![CDATA[Open-Sourced]]></category>
-		<guid isPermaLink="false">/?p=123</guid>
+		<guid isPermaLink="false">https://www.scmakes.com/?p=123</guid>
 
 					<description><![CDATA[<p>I&#8217;m excited to announce the launch of the new&#160;University of Georgia Motorcycle Club&#160;website! As a proud alumnus and former member, I had a blast building this site to give back to a community that means a lot to me. Built with HTML, CSS, and JavaScript, the site is a central hub for all things related [&#8230;]</p>
-<p>The post <a href="/projects/engineering/ride-on-uga/">Ride On, UGA!</a> appeared first on <a href="/">SC Makes</a>.</p>
+<p>The post <a href="https://www.scmakes.com/projects/engineering/ride-on-uga/">Ride On, UGA!</a> appeared first on <a href="https://www.scmakes.com/">SC Makes</a>.</p>
 ]]></description>
 		
 		
@@ -106,7 +106,7 @@
 			</item>
 		<item>
 		<title>MD Preview</title>
-		<link>/projects/engineering/md-preview/</link>
+		<link>https://www.scmakes.com/projects/engineering/md-preview/</link>
 		
 		<dc:creator><![CDATA[Sidharth Chaudhary]]></dc:creator>
 		<pubDate>Wed, 23 Jul 2025 08:41:51 +0000</pubDate>
@@ -114,10 +114,10 @@
 		<category><![CDATA[Markdown]]></category>
 		<category><![CDATA[Open-Sourced]]></category>
 		<category><![CDATA[Rust]]></category>
-		<guid isPermaLink="false">/?p=102</guid>
+		<guid isPermaLink="false">https://www.scmakes.com/?p=102</guid>
 
 					<description><![CDATA[<p>Tired of leaving your terminal to view a simple Markdown file? Meet&#160;md-preview, a powerful new command-line tool written in&#160;Rust&#160;that brings beautiful, formatted Markdown directly to your terminal screen. It&#8217;s designed to be fast, efficient, and highly readable, so you can focus on your work without context switching. Why&#160;md-preview? While many tools exist for viewing Markdown,&#160;md-preview&#160;is [&#8230;]</p>
-<p>The post <a href="/projects/engineering/md-preview/">MD Preview</a> appeared first on <a href="/">SC Makes</a>.</p>
+<p>The post <a href="https://www.scmakes.com/projects/engineering/md-preview/">MD Preview</a> appeared first on <a href="https://www.scmakes.com/">SC Makes</a>.</p>
 ]]></description>
 		
 		
@@ -125,7 +125,7 @@
 			</item>
 		<item>
 		<title>Signal Generator</title>
-		<link>/projects/engineering/signal-generator/</link>
+		<link>https://www.scmakes.com/projects/engineering/signal-generator/</link>
 		
 		<dc:creator><![CDATA[Sidharth Chaudhary]]></dc:creator>
 		<pubDate>Thu, 20 Feb 2025 07:43:45 +0000</pubDate>
@@ -134,14 +134,14 @@
 		<category><![CDATA[Open-Sourced]]></category>
 		<category><![CDATA[Python]]></category>
 		<category><![CDATA[Raspberry Pi 4]]></category>
-		<guid isPermaLink="false">/?p=88</guid>
+		<guid isPermaLink="false">https://www.scmakes.com/?p=88</guid>
 
 					<description><![CDATA[<p>I&#8217;m excited to share a new Python tool I&#8217;ve developed,&#160;SignalGenerator. This script is specifically designed with embedded systems in mind, providing a simple yet powerful way to generate and test audio waveforms. While it works on any system with PyAudio, its real value shines when used with hardware like the&#160;Raspberry Pi 4&#8217;s onboard digital-to-analog converter [&#8230;]</p>
-<p>The post <a href="/projects/engineering/signal-generator/">Signal Generator</a> appeared first on <a href="/">SC Makes</a>.</p>
+<p>The post <a href="https://www.scmakes.com/projects/engineering/signal-generator/">Signal Generator</a> appeared first on <a href="https://www.scmakes.com/">SC Makes</a>.</p>
 ]]></description>
 		
 		
-		<enclosure url="/wp-content/uploads/2025/08/IMG_3885-2.mov" length="81976746" type="video/quicktime" />
+		<enclosure url="https://www.scmakes.com/wp-content/uploads/2025/08/IMG_3885-2.mov" length="81976746" type="video/quicktime" />
 
 			</item>
 	</channel>

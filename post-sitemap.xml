@@ -1,75 +1,75 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://www.scmakes.com/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/projects/books/the-github-handbook/</loc>
+		<loc>https://www.scmakes.com/projects/books/the-github-handbook/</loc>
 		<lastmod>2025-09-08T22:18:12+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/09/61e2P5fAVyL._SL1499_.jpg</image:loc>
+			<image:loc>https://www.scmakes.com/wp-content/uploads/2025/09/61e2P5fAVyL._SL1499_.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/projects/engineering/ride-on-uga/</loc>
+		<loc>https://www.scmakes.com/projects/engineering/ride-on-uga/</loc>
 		<lastmod>2025-09-08T22:18:18+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/08/Screenshot-2025-08-25-at-9.19.14-PM.png</image:loc>
+			<image:loc>https://www.scmakes.com/wp-content/uploads/2025/08/Screenshot-2025-08-25-at-9.19.14-PM.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/projects/engineering/md-preview/</loc>
+		<loc>https://www.scmakes.com/projects/engineering/md-preview/</loc>
 		<lastmod>2025-09-08T22:18:22+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/08/Screenshot-2025-08-25-at-4.31.24-AM.png</image:loc>
+			<image:loc>https://www.scmakes.com/wp-content/uploads/2025/08/Screenshot-2025-08-25-at-4.31.24-AM.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/08/Screenshot-2025-08-25-at-4.31.24-AM-1.png</image:loc>
+			<image:loc>https://www.scmakes.com/wp-content/uploads/2025/08/Screenshot-2025-08-25-at-4.31.24-AM-1.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/08/Screenshot-2025-08-25-at-4.33.07-AM-1.png</image:loc>
+			<image:loc>https://www.scmakes.com/wp-content/uploads/2025/08/Screenshot-2025-08-25-at-4.33.07-AM-1.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/projects/engineering/signal-generator/</loc>
+		<loc>https://www.scmakes.com/projects/engineering/signal-generator/</loc>
 		<lastmod>2025-09-08T22:18:26+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/08/RigolDS1.png</image:loc>
+			<image:loc>https://www.scmakes.com/wp-content/uploads/2025/08/RigolDS1.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/08/RigolDS1.png</image:loc>
+			<image:loc>https://www.scmakes.com/wp-content/uploads/2025/08/RigolDS1.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/08/RigolDS3.png</image:loc>
+			<image:loc>https://www.scmakes.com/wp-content/uploads/2025/08/RigolDS3.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/blog/my-3d-printing-adventure-begins/</loc>
+		<loc>https://www.scmakes.com/blog/my-3d-printing-adventure-begins/</loc>
 		<lastmod>2025-09-08T23:00:53+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/09/IMG_3927-scaled.jpg</image:loc>
+			<image:loc>https://www.scmakes.com/wp-content/uploads/2025/09/IMG_3927-scaled.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/09/IMG_4043-scaled.jpg</image:loc>
+			<image:loc>https://www.scmakes.com/wp-content/uploads/2025/09/IMG_4043-scaled.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/09/IMG_4044-scaled.jpg</image:loc>
+			<image:loc>https://www.scmakes.com/wp-content/uploads/2025/09/IMG_4044-scaled.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/09/IMG_4045-scaled.jpg</image:loc>
+			<image:loc>https://www.scmakes.com/wp-content/uploads/2025/09/IMG_4045-scaled.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/09/IMG_4046-scaled.jpg</image:loc>
+			<image:loc>https://www.scmakes.com/wp-content/uploads/2025/09/IMG_4046-scaled.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/09/IMG_4047-scaled.jpg</image:loc>
+			<image:loc>https://www.scmakes.com/wp-content/uploads/2025/09/IMG_4047-scaled.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/09/IMG_4048-scaled.jpg</image:loc>
+			<image:loc>https://www.scmakes.com/wp-content/uploads/2025/09/IMG_4048-scaled.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/blog/hello-world/</loc>
+		<loc>https://www.scmakes.com/blog/hello-world/</loc>
 		<lastmod>2025-09-10T01:53:07+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/09/Black-and-White-Circuit-Board-Background.jpg</image:loc>
+			<image:loc>https://www.scmakes.com/wp-content/uploads/2025/09/Black-and-White-Circuit-Board-Background.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>

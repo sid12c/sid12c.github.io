@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Home &#8211; SC Makes</title>
-	<atom:link href="/category/blog/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://www.scmakes.com/category/blog/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.scmakes.com/</link>
 	<description></description>
 	<lastBuildDate>Wed, 10 Sep 2025 01:53:07 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.8.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2025/08/SCMakesLogoGreyRed-150x150.png</url>
+	<url>https://www.scmakes.com/wp-content/uploads/2025/08/SCMakesLogoGreyRed-150x150.png</url>
 	<title>Home &#8211; SC Makes</title>
-	<link>/</link>
+	<link>https://www.scmakes.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>My 3D Printing Adventure Begins</title>
-		<link>/blog/my-3d-printing-adventure-begins/</link>
+		<link>https://www.scmakes.com/blog/my-3d-printing-adventure-begins/</link>
 		
 		<dc:creator><![CDATA[Sidharth Chaudhary]]></dc:creator>
 		<pubDate>Fri, 05 Sep 2025 00:45:51 +0000</pubDate>
@@ -40,10 +40,10 @@
 		<category><![CDATA[Fusion 360]]></category>
 		<category><![CDATA[Raspberry Pi 4]]></category>
 		<category><![CDATA[X1C]]></category>
-		<guid isPermaLink="false">/?p=212</guid>
+		<guid isPermaLink="false">https://www.scmakes.com/?p=212</guid>
 
 					<description><![CDATA[<p>After years of admiring from a distance, I&#8217;ve finally taken the plunge into the world of 3D printing, and what a world it is! My journey begins with the highly-acclaimed Bambu Labs X1 Carbon, a machine that promises speed, multi-color printing, and a level of precision that feels almost like magic. The future of making [&#8230;]</p>
-<p>The post <a href="/blog/my-3d-printing-adventure-begins/">My 3D Printing Adventure Begins</a> appeared first on <a href="/">SC Makes</a>.</p>
+<p>The post <a href="https://www.scmakes.com/blog/my-3d-printing-adventure-begins/">My 3D Printing Adventure Begins</a> appeared first on <a href="https://www.scmakes.com/">SC Makes</a>.</p>
 ]]></description>
 		
 		
@@ -51,15 +51,15 @@
 			</item>
 		<item>
 		<title>Hello world!</title>
-		<link>/blog/hello-world/</link>
+		<link>https://www.scmakes.com/blog/hello-world/</link>
 		
 		<dc:creator><![CDATA[Sidharth Chaudhary]]></dc:creator>
 		<pubDate>Thu, 21 Aug 2025 17:54:45 +0000</pubDate>
 				<category><![CDATA[Blog]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">https://www.scmakes.com/?p=1</guid>
 
 					<description><![CDATA[<p>Well, hello there! If you&#8217;re reading this, you&#8217;ve officially stumbled upon the very first post of my brand-new personal website. And to that, I say: welcome! This has been a long time coming, and I&#8217;m incredibly excited to finally have a dedicated space to share my journey, thoughts, and creations with the world. Think of [&#8230;]</p>
-<p>The post <a href="/blog/hello-world/">Hello world!</a> appeared first on <a href="/">SC Makes</a>.</p>
+<p>The post <a href="https://www.scmakes.com/blog/hello-world/">Hello world!</a> appeared first on <a href="https://www.scmakes.com/">SC Makes</a>.</p>
 ]]></description>
 		
 		

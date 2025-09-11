@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Home &#8211; SC Makes</title>
-	<atom:link href="/tag/git/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://www.scmakes.com/tag/git/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.scmakes.com/</link>
 	<description></description>
 	<lastBuildDate>Mon, 08 Sep 2025 22:18:12 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,25 +21,25 @@
 	<generator>https://wordpress.org/?v=6.8.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2025/08/SCMakesLogoGreyRed-150x150.png</url>
+	<url>https://www.scmakes.com/wp-content/uploads/2025/08/SCMakesLogoGreyRed-150x150.png</url>
 	<title>Home &#8211; SC Makes</title>
-	<link>/</link>
+	<link>https://www.scmakes.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>The GitHub Handbook</title>
-		<link>/projects/books/the-github-handbook/</link>
+		<link>https://www.scmakes.com/projects/books/the-github-handbook/</link>
 		
 		<dc:creator><![CDATA[Sidharth Chaudhary]]></dc:creator>
 		<pubDate>Tue, 26 Aug 2025 19:18:06 +0000</pubDate>
 				<category><![CDATA[Books]]></category>
 		<category><![CDATA[Git]]></category>
 		<category><![CDATA[GitHub]]></category>
-		<guid isPermaLink="false">/?p=153</guid>
+		<guid isPermaLink="false">https://www.scmakes.com/?p=153</guid>
 
 					<description><![CDATA[<p>Are you ready to revolutionize your approach to coding without getting bogged down in endless complexities? Whether you&#8217;re a budding developer, a seasoned freelancer, or anyone who works with code, understanding Git and GitHub is no longer optional – it&#8217;s essential. That&#8217;s why I&#8217;m thrilled to announce the release of my new book,&#160;&#8220;The GitHub Handbook&#8221;! [&#8230;]</p>
-<p>The post <a href="/projects/books/the-github-handbook/">The GitHub Handbook</a> appeared first on <a href="/">SC Makes</a>.</p>
+<p>The post <a href="https://www.scmakes.com/projects/books/the-github-handbook/">The GitHub Handbook</a> appeared first on <a href="https://www.scmakes.com/">SC Makes</a>.</p>
 ]]></description>
 		
 		

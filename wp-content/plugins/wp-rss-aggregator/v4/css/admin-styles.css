@@ -51,7 +51,7 @@ span.wprss-row-id {
 }
 
 #icon-wprss-aggregator {
-    background: transparent url('/wp-content/plugins/wp-rss-aggregator/v4/images/icon-adminpage32.png') no-repeat !important;
+    background: transparent url('https://www.scmakes.com/wp-content/plugins/wp-rss-aggregator/v4/images/icon-adminpage32.png') no-repeat !important;
 }
 
 body.post-type-wprss_feed #titlediv div.inside { display: none !important; }
@@ -129,12 +129,12 @@ line-height: 16px;
 }
 
 li.twitter a {
-background: transparent url('/wp-content/plugins/wp-rss-aggregator/v4/images/twitter.png') no-repeat 0;
+background: transparent url('https://www.scmakes.com/wp-content/plugins/wp-rss-aggregator/v4/images/twitter.png') no-repeat 0;
 padding-left: 20px;
 }
 
 li.facebook a {
-background: transparent url('/wp-content/plugins/wp-rss-aggregator/v4/images/facebook.png') no-repeat 0;
+background: transparent url('https://www.scmakes.com/wp-content/plugins/wp-rss-aggregator/v4/images/facebook.png') no-repeat 0;
 padding-left: 20px;
 }
 

@@ -91,15 +91,15 @@ table.mini-status {
 /* Styles for broken links, redirects and other link states or types */
 
 .blc-redirect .blc-link-url {
-	background-image: url("/wp-content/plugins/broken-link-checker/legacy/images/blue_dot.png");
+	background-image: url("https://www.scmakes.com/wp-content/plugins/broken-link-checker/legacy/images/blue_dot.png");
 }
 
 .link-status-error .blc-link-url {
-	background-image: url("/wp-content/plugins/broken-link-checker/legacy/images/font-awesome/font-awesome-exclamation-sign.png");
+	background-image: url("https://www.scmakes.com/wp-content/plugins/broken-link-checker/legacy/images/font-awesome/font-awesome-exclamation-sign.png");
 }
 
 .link-status-warning .blc-link-url {
-	background-image: url("/wp-content/plugins/broken-link-checker/legacy/images/font-awesome/font-awesome-warning-sign.png");
+	background-image: url("https://www.scmakes.com/wp-content/plugins/broken-link-checker/legacy/images/font-awesome/font-awesome-warning-sign.png");
 }
 
 .blc-excluded-link {
@@ -111,7 +111,7 @@ table.mini-status {
 }
 
 .blc-permanently-broken-hl {
-	background-image: url("/wp-content/plugins/broken-link-checker/legacy/images/red_highlight.png");
+	background-image: url("https://www.scmakes.com/wp-content/plugins/broken-link-checker/legacy/images/red_highlight.png");
 }
 
 

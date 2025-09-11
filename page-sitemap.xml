@@ -1,67 +1,67 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://www.scmakes.com/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/</loc>
+		<loc>https://www.scmakes.com/</loc>
 		<lastmod>2025-09-10T02:50:21+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/09/Black-and-White-Circuit-Board-Background.jpg</image:loc>
+			<image:loc>https://www.scmakes.com/wp-content/uploads/2025/09/Black-and-White-Circuit-Board-Background.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/privacy-policy/</loc>
+		<loc>https://www.scmakes.com/privacy-policy/</loc>
 		<lastmod>2025-08-25T04:13:20+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/404-2/</loc>
+		<loc>https://www.scmakes.com/404-2/</loc>
 		<lastmod>2025-09-03T21:50:57+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/09/404-image.webp</image:loc>
+			<image:loc>https://www.scmakes.com/wp-content/uploads/2025/09/404-image.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/projects/books/</loc>
+		<loc>https://www.scmakes.com/projects/books/</loc>
 		<lastmod>2025-09-08T19:31:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/home/sidharth-chaudhary/</loc>
+		<loc>https://www.scmakes.com/home/sidharth-chaudhary/</loc>
 		<lastmod>2025-09-09T04:01:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/contact/</loc>
+		<loc>https://www.scmakes.com/contact/</loc>
 		<lastmod>2025-09-09T04:02:55+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/about/</loc>
+		<loc>https://www.scmakes.com/about/</loc>
 		<lastmod>2025-09-09T16:19:38+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/09/me-edited-1.jpg</image:loc>
+			<image:loc>https://www.scmakes.com/wp-content/uploads/2025/09/me-edited-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/09/IMG_4024.jpg</image:loc>
+			<image:loc>https://www.scmakes.com/wp-content/uploads/2025/09/IMG_4024.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/projects/engineering/</loc>
+		<loc>https://www.scmakes.com/projects/engineering/</loc>
 		<lastmod>2025-09-09T19:52:55+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/projects/</loc>
+		<loc>https://www.scmakes.com/projects/</loc>
 		<lastmod>2025-09-09T20:25:40+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/projects/project-archive/</loc>
+		<loc>https://www.scmakes.com/projects/project-archive/</loc>
 		<lastmod>2025-09-10T01:04:07+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/blog/blogs-archive/</loc>
+		<loc>https://www.scmakes.com/blog/blogs-archive/</loc>
 		<lastmod>2025-09-10T01:22:01+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/blog/</loc>
+		<loc>https://www.scmakes.com/blog/</loc>
 		<lastmod>2025-09-10T02:45:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/archive/</loc>
+		<loc>https://www.scmakes.com/archive/</loc>
 		<lastmod>2025-09-10T03:40:28+00:00</lastmod>
 	</url>
 </urlset>

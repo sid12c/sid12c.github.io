@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Home &#8211; SC Makes</title>
-	<atom:link href="/tag/css/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://www.scmakes.com/tag/css/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.scmakes.com/</link>
 	<description></description>
 	<lastBuildDate>Mon, 08 Sep 2025 22:18:18 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.8.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2025/08/SCMakesLogoGreyRed-150x150.png</url>
+	<url>https://www.scmakes.com/wp-content/uploads/2025/08/SCMakesLogoGreyRed-150x150.png</url>
 	<title>Home &#8211; SC Makes</title>
-	<link>/</link>
+	<link>https://www.scmakes.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Ride On, UGA!</title>
-		<link>/projects/engineering/ride-on-uga/</link>
+		<link>https://www.scmakes.com/projects/engineering/ride-on-uga/</link>
 		
 		<dc:creator><![CDATA[Sidharth Chaudhary]]></dc:creator>
 		<pubDate>Fri, 25 Jul 2025 01:33:38 +0000</pubDate>
@@ -39,10 +39,10 @@
 		<category><![CDATA[JS]]></category>
 		<category><![CDATA[Motorcycles]]></category>
 		<category><![CDATA[Open-Sourced]]></category>
-		<guid isPermaLink="false">/?p=123</guid>
+		<guid isPermaLink="false">https://www.scmakes.com/?p=123</guid>
 
 					<description><![CDATA[<p>I&#8217;m excited to announce the launch of the new&#160;University of Georgia Motorcycle Club&#160;website! As a proud alumnus and former member, I had a blast building this site to give back to a community that means a lot to me. Built with HTML, CSS, and JavaScript, the site is a central hub for all things related [&#8230;]</p>
-<p>The post <a href="/projects/engineering/ride-on-uga/">Ride On, UGA!</a> appeared first on <a href="/">SC Makes</a>.</p>
+<p>The post <a href="https://www.scmakes.com/projects/engineering/ride-on-uga/">Ride On, UGA!</a> appeared first on <a href="https://www.scmakes.com/">SC Makes</a>.</p>
 ]]></description>
 		
 		
